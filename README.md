@@ -1,4 +1,4 @@
-# 前端资源收集
+# 前端资源
 
 平时开发和学习过程中自己收集的一些前端资源，自行取用，不断更新，欢迎fork补充。
 
@@ -13,7 +13,7 @@ CSS Weekly | [http://css-weekly.com](http://css-weekly.com) | css技术推送
 Javascript Weekly | [http://javascriptweekly.com](http://javascriptweekly.com) | javascript技术推送
 Web Design Weekly | [http://web-design-weekly.com/](http://web-design-weekly.com/) | 设计相关推送
 UX Weekly | [http://uxwkly.com](http://uxwkly.com) | 用户体验和设计相关推送
-Responsive Design Newsletter | [http://responsivedesignweekly.com](http://responsivedesignweekly.com) | 次响应式设计相关推送
+Responsive Design Newsletter | [http://responsivedesignweekly.com](http://responsivedesignweekly.com) | 响应式设计相关推送
 Sidebar | [http://sidebar.io](http://sidebar.io) | 设计相关推送
 The Hacker News Newsletter | [http://www.hackernewsletter.com](http://www.hackernewsletter.com) | hackernews 推送
 Hack Design | [http://hackdesign.org](http://hackdesign.org) | 每周发布一个设计类课程
