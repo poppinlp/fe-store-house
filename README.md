@@ -41,6 +41,7 @@ Paul Irish | [http://www.paulirish.com](http://www.paulirish.com) | Paul Irish�
 DailyJS | [http://dailyjs.com](http://dailyjs.com) | 技术文章
 Steve Souders | [http://stevesouders.com](http://stevesouders.com) | Steve Souders的博客
 Evilcos | [http://evilcos.me](http://evilcos.me) | 余弦的博客
+Krasimir Tsonev | [http://krasimirtsonev.com](http://krasimirtsonev.com) | Krasimir Tsonev的博客
 
 ## 社区
 
