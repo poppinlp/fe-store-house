@@ -51,4 +51,4 @@ V2EX | [http://www.v2ex.com](http://www.v2ex.com/) | 国内技术社区，way to
 cnode | [http://cnodejs.org](http://cnodejs.org) | 国内nodejs社区
 stackoverflow | [http://stackoverflow.com](http://stackoverflow.com) | 国外问答社区
 SegmentFault | [http://segmentfault.com](http://segmentfault.com) | 国内问答社区
-DIV.IO | [http://div.io](http://div.io) | 国内高端前端社区
+DIV.IO | [http://div.io](http://div.io) | 国内前端社区
