@@ -58,6 +58,7 @@ DIV.IO | [http://div.io](http://div.io) | 国内高端前端社区
 名称 | 地址 | 介绍
 -----|------|-----
 Grunt | [http://gruntjs.com](http://gruntjs.com/) | JavaScript任务执行工具
+nodePPT | [https://github.com/ksky521/nodePPT](https://github.com/ksky521/nodePPT) | markdown语法写ppt，支持远程控制等
 impress.js | [http://bartaz.github.io/impress.js](http://bartaz.github.io/impress.js/) | 用js做ppt
 Karma | [http://karma-runner.github.io](http://karma-runner.github.io/) | 测试框架
 Chai | [http://chaijs.com](http://chaijs.com/) | 断言库
