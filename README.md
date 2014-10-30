@@ -51,14 +51,18 @@ V2EX | [http://www.v2ex.com](http://www.v2ex.com/) | 国内技术社区，way to
 cnode | [http://cnodejs.org](http://cnodejs.org) | 国内nodejs社区
 stackoverflow | [http://stackoverflow.com](http://stackoverflow.com) | 国外问答社区
 SegmentFault | [http://segmentfault.com](http://segmentfault.com) | 国内问答社区
-DIV.IO | [http://div.io](http://div.io) | 国内高端前端社区
+DIV.IO | [http://div.io](http://div.io) | 国内前端社区
 
 ## 工具
 
 名称 | 地址 | 介绍
 -----|------|-----
 Grunt | [http://gruntjs.com](http://gruntjs.com/) | JavaScript任务执行工具
+Gulp | [http://gulpjs.com](http://gulpjs.com/) | Javascript任务执行工具
+Karma | [http://karma-runner.github.io](http://karma-runner.github.io/) | Javascript测试驱动环境
+Mocha | [http://mochajs.org/(http://mochajs.org/) | Javascript测试框架
+Chai | [http://chaijs.com](http://chaijs.com/) | 断言库
+Jekyll | [http://jekyllrb.com](http://jekyllrb.com/) | 静态网站搭建工具
+Amaze UI | [http://amazeui.org](http://amazeui.org/) | 国内开源HTML5跨屏框架
 nodePPT | [https://github.com/ksky521/nodePPT](https://github.com/ksky521/nodePPT) | markdown语法写ppt，支持远程控制等
 impress.js | [http://bartaz.github.io/impress.js](http://bartaz.github.io/impress.js/) | 用js做ppt
-Karma | [http://karma-runner.github.io](http://karma-runner.github.io/) | 测试框架
-Chai | [http://chaijs.com](http://chaijs.com/) | 断言库
