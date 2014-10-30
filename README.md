@@ -59,10 +59,14 @@ DIV.IO | [http://div.io](http://div.io) | 国内前端社区
 -----|------|-----
 Grunt | [http://gruntjs.com](http://gruntjs.com/) | JavaScript任务执行工具
 Gulp | [http://gulpjs.com](http://gulpjs.com/) | Javascript任务执行工具
-Karma | [http://karma-runner.github.io](http://karma-runner.github.io/) | Javascript测试驱动环境
-Mocha | [http://mochajs.org/(http://mochajs.org/) | Javascript测试框架
-Chai | [http://chaijs.com](http://chaijs.com/) | 断言库
-Jekyll | [http://jekyllrb.com](http://jekyllrb.com/) | 静态网站搭建工具
+zepto.js | [http://zeptojs.com](http://zeptojs.com/) | 精巧的js框架
 Amaze UI | [http://amazeui.org](http://amazeui.org/) | 国内开源HTML5跨屏框架
+Karma | [http://karma-runner.github.io](http://karma-runner.github.io/) | Javascript测试驱动环境
+Mocha | [http://mochajs.org](http://mochajs.org/) | Javascript测试框架
+Chai | [http://chaijs.com](http://chaijs.com/) | 断言库
+sea.js | [http://seajs.org](http://seajs.org/) | js模块加载工具
+normalize.css | [http://necolas.github.io/normalize.css](http://necolas.github.io/normalize.css/) | css reset
+FontAwesome | [http://fontawesome.io](http://fontawesome.io/) | 不错的font icon库
+Jekyll | [http://jekyllrb.com](http://jekyllrb.com/) | 静态网站搭建工具
 nodePPT | [https://github.com/ksky521/nodePPT](https://github.com/ksky521/nodePPT) | markdown语法写ppt，支持远程控制等
 impress.js | [http://bartaz.github.io/impress.js](http://bartaz.github.io/impress.js/) | 用js做ppt
