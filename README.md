@@ -26,6 +26,8 @@ FE Weekly | [http://www.feweekly.com](http://www.feweekly.com) | 每周推送，
 -----|------|-----
 W3Cplus | [http://www.w3cplus.com](http://www.w3cplus.com) | 以css3、html5、Javascript和各类demo为主，推广国内前端行业的技术博客
 前端观察 | [http://www.qianduan.net](http://www.qianduan.net) | 前端技术文章
+百度EFE | [http://efe.baidu.com](http://efe.baidu.com) | 百度商业体系前端团队
+百度FEX | [http://fex.baidu.com](http://fex.baidu.com) | 百度FEX前端团队
 张鑫旭-鑫空间-鑫生活 | [http://www.zhangxinxu.com/wordpress](http://www.zhangxinxu.com/wordpress) | 前端技术文章
 ria之家 | [http://www.36ria.com](http://www.36ria.com) | 前端技术文章
 大前端 | [http://www.daqianduan.com](http://www.daqianduan.com) | 杂七杂八
@@ -61,6 +63,8 @@ Grunt | [http://gruntjs.com](http://gruntjs.com/) | JavaScript任务执行工具
 Gulp | [http://gulpjs.com](http://gulpjs.com/) | Javascript任务执行工具
 zepto.js | [http://zeptojs.com](http://zeptojs.com/) | 精巧的js框架
 Amaze UI | [http://amazeui.org](http://amazeui.org/) | 国内开源HTML5跨屏框架
+FIS | [http://fis.baidu.com](http://fis.baidu.com/) | 前端工具框架
+ECharts | [http://echarts.baidu.com](http://echarts.baidu.com/) | Javascript图表库
 Karma | [http://karma-runner.github.io](http://karma-runner.github.io/) | Javascript测试驱动环境
 Mocha | [http://mochajs.org](http://mochajs.org/) | Javascript测试框架
 Chai | [http://chaijs.com](http://chaijs.com/) | 断言库
