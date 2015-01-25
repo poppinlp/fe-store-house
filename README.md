@@ -1,6 +1,6 @@
 # 前端资源
 
-平时开发和学习过程中自己收集的一些前端资源，自行取用，不断更新，欢迎fork补充。
+平时开发和学习过程中自己收集的一些前端资源，自行取用，不断更新，欢迎 fork 补充。
 
 __前端之路，且行且珍惜。__
 
@@ -20,7 +20,17 @@ Hack Design | [http://hackdesign.org](http://hackdesign.org) | 每周发布一�
 SegmentFault | [http://segmentfault.com](http://segmentfault.com) | 国内开发者技术问答社区每周推送
 FE Weekly | [http://www.feweekly.com](http://www.feweekly.com) | 每周推送，带有中文导读
 
-## 大神
+## 社区
+
+名称 | 地址 | 介绍
+-----|------|-----
+V2EX | [http://www.v2ex.com](http://www.v2ex.com/) | 国内技术社区，way to explore
+cnode | [http://cnodejs.org](http://cnodejs.org) | 国内nodejs社区
+stackoverflow | [http://stackoverflow.com](http://stackoverflow.com) | 国外问答社区
+SegmentFault | [http://segmentfault.com](http://segmentfault.com) | 国内问答社区
+DIV.IO | [http://div.io](http://div.io) | 国内前端社区
+
+## 牛人
 
 名称 | 地址 | 介绍
 -----|------|-----
@@ -32,8 +42,9 @@ W3Cplus | [http://www.w3cplus.com](http://www.w3cplus.com) | 以css3、html5、J
 ria之家 | [http://www.36ria.com](http://www.36ria.com) | 前端技术文章
 大前端 | [http://www.daqianduan.com](http://www.daqianduan.com) | 杂七杂八
 设计达人 | [http://www.shejidaren.com](http://www.shejidaren.com) | 设计类
-Be For Web | [http://beforweb.com](http://beforweb.com) | 关注移动应用及互联网产品、用户体验设计、前端开发
+司徒正美 | [http://www.cnblogs.com/rubylouvre](http://www.cnblogs.com/rubylouvre/) | 司徒正美的博客
 阮一峰 | [http://www.ruanyifeng.com/blog](http://www.ruanyifeng.com/blog) | 技术文章
+Be For Web | [http://beforweb.com](http://beforweb.com) | 关注移动应用及互联网产品、用户体验设计、前端开发
 Smashing Magazine | [http://www.smashingmagazine.com](http://www.smashingmagazine.com) | 技术、设计
 CSS-TRICKS | [http://css-tricks.com](http://css-tricks.com) | 技术
 Web Designer Wall | [http://webdesignerwall.com](http://webdesignerwall.com) | 技术、设计
@@ -44,16 +55,8 @@ DailyJS | [http://dailyjs.com](http://dailyjs.com) | 技术文章
 Steve Souders | [http://stevesouders.com](http://stevesouders.com) | Steve Souders的博客
 Evilcos | [http://evilcos.me](http://evilcos.me) | 余弦的博客
 Krasimir Tsonev | [http://krasimirtsonev.com](http://krasimirtsonev.com) | Krasimir Tsonev的博客
-
-## 社区
-
-名称 | 地址 | 介绍
------|------|-----
-V2EX | [http://www.v2ex.com](http://www.v2ex.com/) | 国内技术社区，way to explore
-cnode | [http://cnodejs.org](http://cnodejs.org) | 国内nodejs社区
-stackoverflow | [http://stackoverflow.com](http://stackoverflow.com) | 国外问答社区
-SegmentFault | [http://segmentfault.com](http://segmentfault.com) | 国内问答社区
-DIV.IO | [http://div.io](http://div.io) | 国内前端社区
+soho UX | [http://ux.sohu.com](http://ux.sohu.com/) | sohu UX
+w3ctech | [http://www.w3ctech.com](http://www.w3ctech.com/) | w3ctech
 
 ## 工具
 
@@ -74,3 +77,5 @@ FontAwesome | [http://fontawesome.io](http://fontawesome.io/) | 不错的font ic
 Jekyll | [http://jekyllrb.com](http://jekyllrb.com/) | 静态网站搭建工具
 nodePPT | [https://github.com/ksky521/nodePPT](https://github.com/ksky521/nodePPT) | markdown语法写ppt，支持远程控制等
 impress.js | [http://bartaz.github.io/impress.js](http://bartaz.github.io/impress.js/) | 用js做ppt
+browserify | [http://browserify.org](http://browserify.org/) | 让 CommonJS 的组件在浏览器里飞
+jshint | [http://jshint.com](http://jshint.com/) | js 检查工具
