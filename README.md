@@ -79,3 +79,10 @@ nodePPT | [https://github.com/ksky521/nodePPT](https://github.com/ksky521/nodePP
 impress.js | [http://bartaz.github.io/impress.js](http://bartaz.github.io/impress.js/) | 用js做ppt
 browserify | [http://browserify.org](http://browserify.org/) | 让 CommonJS 的组件在浏览器里飞
 jshint | [http://jshint.com](http://jshint.com/) | js 检查工具
+
+## 文章
+
+名称 | 地址 | 介绍
+-----|------|-----
+前端开胃菜 | [http://poppinlp.github.io/front-end-appetizers](http://poppinlp.github.io/front-end-appetizers/) | 前端基础入门教程
+
