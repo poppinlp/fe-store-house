@@ -79,6 +79,8 @@ nodePPT | [https://github.com/ksky521/nodePPT](https://github.com/ksky521/nodePP
 impress.js | [http://bartaz.github.io/impress.js](http://bartaz.github.io/impress.js/) | 用js做ppt
 browserify | [http://browserify.org](http://browserify.org/) | 让 CommonJS 的组件在浏览器里飞
 jshint | [http://jshint.com](http://jshint.com/) | js 检查工具
+hammer.js | [http://hammerjs.github.io](http://hammerjs.github.io/) | 模拟页面上的手势事件
+swipe.js | [http://swipejs.com](http://swipejs.com/) | 轻量级的移动端页面 slider
 
 ## 文章
 
