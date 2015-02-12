@@ -81,10 +81,14 @@ browserify | [http://browserify.org](http://browserify.org/) | 让 CommonJS 的�
 jshint | [http://jshint.com](http://jshint.com/) | js 检查工具
 hammer.js | [http://hammerjs.github.io](http://hammerjs.github.io/) | 模拟页面上的手势事件
 swipe.js | [http://swipejs.com](http://swipejs.com/) | 轻量级的移动端页面 slider
+interact.js | [http://interactjs.io/](http://interactjs.io/) | 轻量级的拖拽操作库
+lining.js | [http://zencode.in/lining.js/](http://zencode.in/lining.js/) | 丰富的行内样式操作库
+octocard | [http://octocard.in/](http://octocard.in/) | github 卡片分享工具
 
-## 文章
+## 教程
 
 名称 | 地址 | 介绍
 -----|------|-----
 前端开胃菜 | [http://poppinlp.github.io/front-end-appetizers](http://poppinlp.github.io/front-end-appetizers/) | 前端基础入门教程
+CSS 词汇表 | [http://yisibl.github.io/css-vocabulary/](http://yisibl.github.io/css-vocabulary/) | 适合 CSS 初学者了解各种 CSS 基本概念
 
