@@ -91,4 +91,6 @@ octocard | [http://octocard.in/](http://octocard.in/) | github 卡片分享工�
 -----|------|-----
 前端开胃菜 | [http://poppinlp.github.io/front-end-appetizers](http://poppinlp.github.io/front-end-appetizers/) | 前端基础入门教程
 CSS 词汇表 | [http://yisibl.github.io/css-vocabulary/](http://yisibl.github.io/css-vocabulary/) | 适合 CSS 初学者了解各种 CSS 基本概念
+Git 在线入门教程 | [http://pcottle.github.io/learnGitBranching/?locale=zh_CN](http://pcottle.github.io/learnGitBranching/?locale=zh_CN) | 适合 Git 入门者的在线学习教程，可直接在线操作
+ProGit 中文版 | [http://git.oschina.net/progit/](http://git.oschina.net/progit/) | 很棒的一本讲 Git 的书，这是网页版，当然也有很多地方能下载到 pdf 版
 
