@@ -64,9 +64,11 @@ w3ctech | [http://www.w3ctech.com](http://www.w3ctech.com/) | w3ctech
 -----|------|-----
 Grunt | [http://gruntjs.com](http://gruntjs.com/) | JavaScript任务执行工具
 Gulp | [http://gulpjs.com](http://gulpjs.com/) | Javascript任务执行工具
+spritesmith | [https://github.com/Ensighten/spritesmith](https://github.com/Ensighten/spritesmith) | 很不错的自动合并 icon 的工具
 zepto.js | [http://zeptojs.com](http://zeptojs.com/) | 精巧的js框架
 Amaze UI | [http://amazeui.org](http://amazeui.org/) | 国内开源HTML5跨屏框架
 FIS | [http://fis.baidu.com](http://fis.baidu.com/) | 前端工具框架
+ACE | [http://ace.c9.io/](http://ace.c9.io/) | c9.io 使用的很棒的代码编辑器
 ECharts | [http://echarts.baidu.com](http://echarts.baidu.com/) | Javascript图表库
 Karma | [http://karma-runner.github.io](http://karma-runner.github.io/) | Javascript测试驱动环境
 Mocha | [http://mochajs.org](http://mochajs.org/) | Javascript测试框架
