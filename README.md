@@ -86,6 +86,15 @@ swipe.js | [http://swipejs.com](http://swipejs.com/) | 轻量级的移动端页�
 interact.js | [http://interactjs.io/](http://interactjs.io/) | 轻量级的拖拽操作库
 lining.js | [http://zencode.in/lining.js/](http://zencode.in/lining.js/) | 丰富的行内样式操作库
 octocard | [http://octocard.in/](http://octocard.in/) | github 卡片分享工具
+Transifex | [https://www.transifex.com/](https://www.transifex.com/) | 在线协同翻译的网站
+
+## 框架
+
+名称 | 地址 | 介绍
+-----|------|-----
+MDL | [http://www.getmdl.io/](http://www.getmdl.io/) | Google 基于 Material Design 规范出的框架
+Materialize | [http://materializecss.com/](http://materializecss.com/) | 基于 Material Design 的前端框架
+React | [https://facebook.github.io/react/](https://facebook.github.io/react/) | React
 
 ## 教程
 
@@ -95,4 +104,3 @@ octocard | [http://octocard.in/](http://octocard.in/) | github 卡片分享工�
 CSS 词汇表 | [http://yisibl.github.io/css-vocabulary/](http://yisibl.github.io/css-vocabulary/) | 适合 CSS 初学者了解各种 CSS 基本概念
 Git 在线入门教程 | [http://pcottle.github.io/learnGitBranching/?locale=zh_CN](http://pcottle.github.io/learnGitBranching/?locale=zh_CN) | 适合 Git 入门者的在线学习教程，可直接在线操作
 ProGit 中文版 | [http://git.oschina.net/progit/](http://git.oschina.net/progit/) | 很棒的一本讲 Git 的书，这是网页版，当然也有很多地方能下载到 pdf 版
-
