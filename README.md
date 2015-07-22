@@ -88,6 +88,7 @@ lining.js | [http://zencode.in/lining.js/](http://zencode.in/lining.js/) | 丰�
 octocard | [http://octocard.in/](http://octocard.in/) | github 卡片分享工具
 Transifex | [https://www.transifex.com/](https://www.transifex.com/) | 在线协同翻译的网站
 Handlebars | [http://handlebarsjs.com/](http://handlebarsjs.com/) | 前端模板引擎
+TheaterJS | [https://github.com/Zhouzi/TheaterJS](https://github.com/Zhouzi/TheaterJS) | A typing effect mimicking human behavior
 
 ## 框架
 
@@ -106,7 +107,7 @@ CSS 词汇表 | [http://yisibl.github.io/css-vocabulary/](http://yisibl.github.i
 Git 在线入门教程 | [http://pcottle.github.io/learnGitBranching/?locale=zh_CN](http://pcottle.github.io/learnGitBranching/?locale=zh_CN) | 适合 Git 入门者的在线学习教程，可直接在线操作
 ProGit 中文版 | [http://git.oschina.net/progit/](http://git.oschina.net/progit/) | 很棒的一本讲 Git 的书，这是网页版，当然也有很多地方能下载到 pdf 版
 
-## 有意思的东西
+## 有点意思
 
 名称 | 地址 | 介绍
 -----|------|-----
