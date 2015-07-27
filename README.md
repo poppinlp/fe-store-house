@@ -89,6 +89,7 @@ octocard | [http://octocard.in/](http://octocard.in/) | github 卡片分享工�
 Transifex | [https://www.transifex.com/](https://www.transifex.com/) | 在线协同翻译的网站
 Handlebars | [http://handlebarsjs.com/](http://handlebarsjs.com/) | 前端模板引擎
 TheaterJS | [https://github.com/Zhouzi/TheaterJS](https://github.com/Zhouzi/TheaterJS) | A typing effect mimicking human behavior
+emmet | [http://emmet.io/](http://emmet.io/) | 非常好用的一个写 HTML 的插件
 
 ## 框架
 
