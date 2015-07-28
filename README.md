@@ -88,16 +88,28 @@ lining.js | [http://zencode.in/lining.js/](http://zencode.in/lining.js/) | 丰�
 octocard | [http://octocard.in/](http://octocard.in/) | github 卡片分享工具
 Transifex | [https://www.transifex.com/](https://www.transifex.com/) | 在线协同翻译的网站
 Handlebars | [http://handlebarsjs.com/](http://handlebarsjs.com/) | 前端模板引擎
+AngularJS | [https://angularjs.org/](https://angularjs.org/) | 大名鼎鼎的 Angular
+React | [https://facebook.github.io/react/](https://facebook.github.io/react/) | 大名鼎鼎的 React
+Socket.IO | [http://socket.io/](http://socket.io/) | 实时通信框架
 TheaterJS | [https://github.com/Zhouzi/TheaterJS](https://github.com/Zhouzi/TheaterJS) | A typing effect mimicking human behavior
 emmet | [http://emmet.io/](http://emmet.io/) | 非常好用的一个写 HTML 的插件
 
-## 框架
+## 规范相关
+
+名称 | 地址 | 介绍
+w3org | [http://www.w3.org/](http://www.w3.org/) | w3org
+whatwg | [https://whatwg.org/](https://whatwg.org/) | whatwg
+Promises/A+ | [https://promisesaplus.com/](https://promisesaplus.com/) | promises spec
+CommonJS | [http://wiki.commonjs.org/wiki/CommonJS](http://wiki.commonjs.org/wiki/CommonJS) | commonjs wiki
+AMDJS | [https://github.com/amdjs/amdjs-api](https://github.com/amdjs/amdjs-api) | amdjs
+CMDJS | [https://github.com/cmdjs/specification](https://github.com/cmdjs/specification) | cmdjs
+
+## 设计
 
 名称 | 地址 | 介绍
 -----|------|-----
 MDL | [http://www.getmdl.io/](http://www.getmdl.io/) | Google 基于 Material Design 规范出的框架
 Materialize | [http://materializecss.com/](http://materializecss.com/) | 基于 Material Design 的前端框架
-React | [https://facebook.github.io/react/](https://facebook.github.io/react/) | React
 
 ## 教程
 
