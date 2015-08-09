@@ -127,3 +127,5 @@ CSS 布局水平垂直居中总结 | [http://f2e.souche.com/blog/jie-du-cssbu-ju
 名称 | 地址 | 介绍
 -----|------|-----
 Attack Map | [http://map.norsecorp.com/](http://map.norsecorp.com/) | 对于全球黑客攻击蛮有意思的可视化
+Gource | [https://github.com/acaudwell/Gource](https://github.com/acaudwell/Gource) | 对于 commit 的可视化呈现
+hardseed | [https://github.com/yangyangwithgnu/hardseed](https://github.com/yangyangwithgnu/hardseed) | hardseed
