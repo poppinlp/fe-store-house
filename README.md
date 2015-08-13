@@ -94,6 +94,7 @@ React | [https://facebook.github.io/react/](https://facebook.github.io/react/) |
 Socket.IO | [http://socket.io/](http://socket.io/) | 实时通信框架
 TheaterJS | [https://github.com/Zhouzi/TheaterJS](https://github.com/Zhouzi/TheaterJS) | A typing effect mimicking human behavior
 emmet | [http://emmet.io/](http://emmet.io/) | 非常好用的一个写 HTML 的插件
+gm | [http://aheckmann.github.io/gm/](http://aheckmann.github.io/gm/) | node 上处理图片的不错的工具
 
 ## 规范相关
 
