@@ -124,7 +124,7 @@ CSS 词汇表 | [http://yisibl.github.io/css-vocabulary/](http://yisibl.github.i
 Git 在线入门教程 | [http://pcottle.github.io/learnGitBranching/?locale=zh_CN](http://pcottle.github.io/learnGitBranching/?locale=zh_CN) | 适合 Git 入门者的在线学习教程，可直接在线操作
 ProGit 中文版 | [http://git.oschina.net/progit/](http://git.oschina.net/progit/) | 很棒的一本讲 Git 的书，这是网页版，当然也有很多地方能下载到 pdf 版
 CSS 布局水平垂直居中总结 | [http://f2e.souche.com/blog/jie-du-cssbu-ju-zhi-shui-ping-chui-zhi-ju-zhong/](http://f2e.souche.com/blog/jie-du-cssbu-ju-zhi-shui-ping-chui-zhi-ju-zhong/) | 总结的挺全面
-understanding ES6 | [https://github.com/nzakas/understandinges6] | NZ 大神的书
+understanding ES6 | [https://github.com/nzakas/understandinges6](https://github.com/nzakas/understandinges6) | NZ 大神的书
 
 ## 有点意思
 
