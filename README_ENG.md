@@ -97,6 +97,7 @@ gm | [http://aheckmann.github.io/gm/](http://aheckmann.github.io/gm/) | node 上
 esprima | [http://esprima.org/index.html](http://esprima.org/index.html) | ECMAScript parsing infrastructure for multipurpose analysis
 marked | [https://github.com/chjj/marked](https://github.com/chjj/marked) | A good Markdown parser
 to-markdown | [https://domchristie.github.io/to-markdown/](https://domchristie.github.io/to-markdown/) | Convert HTML to Markdown
+jsDoc | [http://usejsdoc.org/](http://usejsdoc.org/) | js api document generator
 
 ## Spec
 
