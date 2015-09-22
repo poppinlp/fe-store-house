@@ -1,39 +1,37 @@
-# 前端资源
+# Front-end Resources
 
-> [中文](https://github.com/poppinlp/fe-store-house/blob/master/README.md) | [ENGLISH](https://github.com/poppinlp/fe-store-house/blob/master/README_ENG.md)
+> [CHINESE](https://github.com/poppinlp/fe-store-house/blob/master/README.md) | [ENGLISH](https://github.com/poppinlp/fe-store-house/blob/master/README_ENG.md)
 
-平时开发和学习过程中自己收集的一些前端资源。自行取用，不断更新。欢迎 star 和 fork 补充。
+Front-end resources collected in usually work. Keeping update. You are welcome to STAR and PULL-REQUEST.
 
-__前端之路，且行且珍惜。__
+## Weekly
 
-## 订阅
-
-名称 | 地址 | 介绍
+NAME | LINK | SUMMARY
 -----|------|-----
-HTML5 Weekly | [http://html5weekly.com](http://html5weekly.com) | html技术推送
-CSS Weekly | [http://css-weekly.com](http://css-weekly.com) | css技术推送
-Javascript Weekly | [http://javascriptweekly.com](http://javascriptweekly.com) | javascript技术推送
-Web Design Weekly | [http://web-design-weekly.com/](http://web-design-weekly.com/) | 设计相关推送
-UX Weekly | [http://uxwkly.com](http://uxwkly.com) | 用户体验和设计相关推送
-Responsive Design Newsletter | [http://responsivedesignweekly.com](http://responsivedesignweekly.com) | 响应式设计相关推送
-Sidebar | [http://sidebar.io](http://sidebar.io) | 设计相关推送
-The Hacker News Newsletter | [http://www.hackernewsletter.com](http://www.hackernewsletter.com) | hackernews 推送
-Hack Design | [http://hackdesign.org](http://hackdesign.org) | 每周发布一个设计类课程
-SegmentFault | [http://segmentfault.com](http://segmentfault.com) | 国内开发者技术问答社区每周推送
+HTML5 Weekly | [http://html5weekly.com](http://html5weekly.com) | about html
+CSS Weekly | [http://css-weekly.com](http://css-weekly.com) | about css
+Javascript Weekly | [http://javascriptweekly.com](http://javascriptweekly.com) | about javascript
+Web Design Weekly | [http://web-design-weekly.com/](http://web-design-weekly.com/) | about design
+UX Weekly | [http://uxwkly.com](http://uxwkly.com) | about design
+Responsive Design Newsletter | [http://responsivedesignweekly.com](http://responsivedesignweekly.com) | about responsive design
+Sidebar | [http://sidebar.io](http://sidebar.io) | about design
+The Hacker News Newsletter | [http://www.hackernewsletter.com](http://www.hackernewsletter.com) | hackernews weekly
+Hack Design | [http://hackdesign.org](http://hackdesign.org) | about design
+SegmentFault | [http://segmentfault.com](http://segmentfault.com) | QA community in China
 
-## 社区
+## Community
 
-名称 | 地址 | 介绍
+NAME | LINK | SUMMARY
 -----|------|-----
-V2EX | [http://www.v2ex.com](http://www.v2ex.com/) | 国内技术社区，way to explore
-cnode | [http://cnodejs.org](http://cnodejs.org) | 国内nodejs社区
-stackoverflow | [http://stackoverflow.com](http://stackoverflow.com) | 国外问答社区
-SegmentFault | [http://segmentfault.com](http://segmentfault.com) | 国内问答社区
-DIV.IO | [http://div.io](http://div.io) | 国内前端社区
+V2EX | [http://www.v2ex.com](http://www.v2ex.com/) | way to explore
+cnode | [http://cnodejs.org](http://cnodejs.org) | nodejs community in China
+stackoverflow | [http://stackoverflow.com](http://stackoverflow.com) | stackoverflow
+SegmentFault | [http://segmentfault.com](http://segmentfault.com) | QA community in China
+DIV.IO | [http://div.io](http://div.io) | front-end community in China
 
-## 牛人博客
+## Rock blog
 
-名称 | 地址 | 介绍
+NAME | LINK | SUMMARY
 -----|------|-----
 W3Cplus | [http://www.w3cplus.com](http://www.w3cplus.com) | 以css3、html5、Javascript和各类demo为主，推广国内前端行业的技术博客
 前端观察 | [http://www.qianduan.net](http://www.qianduan.net) | 前端技术文章
@@ -60,9 +58,9 @@ soho UX | [http://ux.sohu.com](http://ux.sohu.com/) | sohu UX
 w3ctech | [http://www.w3ctech.com](http://www.w3ctech.com/) | w3ctech
 阿里妈妈 MUX | [http://mux.alimama.com/](http://mux.alimama.com/) | 阿里妈妈的用户体验部门
 
-## 工具
+## Tool
 
-名称 | 地址 | 介绍
+NAME | LINK | SUMMARY
 -----|------|-----
 Grunt | [http://gruntjs.com](http://gruntjs.com/) | JavaScript任务执行工具
 Gulp | [http://gulpjs.com](http://gulpjs.com/) | Javascript任务执行工具
@@ -97,12 +95,12 @@ TheaterJS | [https://github.com/Zhouzi/TheaterJS](https://github.com/Zhouzi/Thea
 emmet | [http://emmet.io/](http://emmet.io/) | 非常好用的一个写 HTML 的插件
 gm | [http://aheckmann.github.io/gm/](http://aheckmann.github.io/gm/) | node 上处理图片的不错的工具
 esprima | [http://esprima.org/index.html](http://esprima.org/index.html) | ECMAScript parsing infrastructure for multipurpose analysis
-marked | [https://github.com/chjj/marked](https://github.com/chjj/marked) | 不错的 Markdown 解析器
-to-markdown | [https://domchristie.github.io/to-markdown/](https://domchristie.github.io/to-markdown/) | 将 HTML 转换成 Markdown
+marked | [https://github.com/chjj/marked](https://github.com/chjj/marked) | A good Markdown parser
+to-markdown | [https://domchristie.github.io/to-markdown/](https://domchristie.github.io/to-markdown/) | Convert HTML to Markdown
 
-## 规范相关
+## Spec
 
-名称 | 地址 | 介绍
+NAME | LINK | SUMMARY
 -----|------|-----
 w3org | [http://www.w3.org/](http://www.w3.org/) | w3org
 whatwg | [https://whatwg.org/](https://whatwg.org/) | whatwg
@@ -111,16 +109,16 @@ CommonJS | [http://wiki.commonjs.org/wiki/CommonJS](http://wiki.commonjs.org/wik
 AMDJS | [https://github.com/amdjs/amdjs-api](https://github.com/amdjs/amdjs-api) | amdjs
 CMDJS | [https://github.com/cmdjs/specification](https://github.com/cmdjs/specification) | cmdjs
 
-## 设计
+## Design
 
-名称 | 地址 | 介绍
+NAME | LINK | SUMMARY
 -----|------|-----
 MDL | [http://www.getmdl.io/](http://www.getmdl.io/) | Google 基于 Material Design 规范出的框架
 Materialize | [http://materializecss.com/](http://materializecss.com/) | 基于 Material Design 的前端框架
 
-## 教程
+## Tutorial
 
-名称 | 地址 | 介绍
+NAME | LINK | SUMMARY
 -----|------|-----
 前端开胃菜 | [http://poppinlp.github.io/front-end-appetizers](http://poppinlp.github.io/front-end-appetizers/) | 前端基础入门教程
 CSS 词汇表 | [http://yisibl.github.io/css-vocabulary/](http://yisibl.github.io/css-vocabulary/) | 适合 CSS 初学者了解各种 CSS 基本概念
@@ -129,7 +127,7 @@ ProGit 中文版 | [http://git.oschina.net/progit/](http://git.oschina.net/progi
 CSS 布局水平垂直居中总结 | [http://f2e.souche.com/blog/jie-du-cssbu-ju-zhi-shui-ping-chui-zhi-ju-zhong/](http://f2e.souche.com/blog/jie-du-cssbu-ju-zhi-shui-ping-chui-zhi-ju-zhong/) | 总结的挺全面
 understanding ES6 | [https://github.com/nzakas/understandinges6](https://github.com/nzakas/understandinges6) | NZ 大神的书
 
-## 有点意思
+## Interesting
 
 名称 | 地址 | 介绍
 -----|------|-----
