@@ -98,6 +98,7 @@ esprima | [http://esprima.org/index.html](http://esprima.org/index.html) | ECMAS
 marked | [https://github.com/chjj/marked](https://github.com/chjj/marked) | A good Markdown parser
 to-markdown | [https://domchristie.github.io/to-markdown/](https://domchristie.github.io/to-markdown/) | Convert HTML to Markdown
 jsDoc | [http://usejsdoc.org/](http://usejsdoc.org/) | js api document generator
+pikaday | [https://github.com/dbushell/Pikaday](https://github.com/dbushell/Pikaday) | A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
 
 ## Spec
 

@@ -100,6 +100,7 @@ esprima | [http://esprima.org/index.html](http://esprima.org/index.html) | ECMAS
 marked | [https://github.com/chjj/marked](https://github.com/chjj/marked) | 不错的 Markdown 解析器
 to-markdown | [https://domchristie.github.io/to-markdown/](https://domchristie.github.io/to-markdown/) | 将 HTML 转换成 Markdown
 jsDoc | [http://usejsdoc.org/](http://usejsdoc.org/) | js api document generator
+pikaday | [https://github.com/dbushell/Pikaday](https://github.com/dbushell/Pikaday) | A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
 
 ## 规范相关
 
