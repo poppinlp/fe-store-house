@@ -99,6 +99,7 @@ marked | [https://github.com/chjj/marked](https://github.com/chjj/marked) | A go
 to-markdown | [https://domchristie.github.io/to-markdown/](https://domchristie.github.io/to-markdown/) | Convert HTML to Markdown
 jsDoc | [http://usejsdoc.org/](http://usejsdoc.org/) | js api document generator
 pikaday | [https://github.com/dbushell/Pikaday](https://github.com/dbushell/Pikaday) | A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
+moment.js | [http://momentjs.com/](http://momentjs.com/) | Parse, validate, manipulate, and display dates in JavaScript.
 
 ## Spec
 
