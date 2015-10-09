@@ -102,6 +102,12 @@ to-markdown | [https://domchristie.github.io/to-markdown/](https://domchristie.g
 jsDoc | [http://usejsdoc.org/](http://usejsdoc.org/) | js api document generator
 pikaday | [https://github.com/dbushell/Pikaday](https://github.com/dbushell/Pikaday) | A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
 moment.js | [http://momentjs.com/](http://momentjs.com/) | Parse, validate, manipulate, and display dates in JavaScript.
+MDL | [http://www.getmdl.io/](http://www.getmdl.io/) | Google 基于 Material Design 规范出的框架
+Materialize | [http://materializecss.com/](http://materializecss.com/) | 基于 Material Design 的前端框架
+fastclick | [https://github.com/ftlabs/fastclick](https://github.com/ftlabs/fastclick) | Polyfill to remove click delays on browsers with touch UIs
+pdf.js | [https://github.com/mozilla/pdf.js](https://github.com/mozilla/pdf.js) | js pdf reader
+lazy.js | [http://danieltao.com/lazy.js/](http://danieltao.com/lazy.js/) | Like Underscore, but lazier
+fullPage.js | [http://alvarotrigo.com/fullPage/](http://alvarotrigo.com/fullPage/) | Create Beautiful Fullscreen Scrolling Websites
 
 ## 规范相关
 
@@ -113,13 +119,6 @@ Promises/A+ | [https://promisesaplus.com/](https://promisesaplus.com/) | promise
 CommonJS | [http://wiki.commonjs.org/wiki/CommonJS](http://wiki.commonjs.org/wiki/CommonJS) | commonjs wiki
 AMDJS | [https://github.com/amdjs/amdjs-api](https://github.com/amdjs/amdjs-api) | amdjs
 CMDJS | [https://github.com/cmdjs/specification](https://github.com/cmdjs/specification) | cmdjs
-
-## 设计
-
-名称 | 地址 | 介绍
------|------|-----
-MDL | [http://www.getmdl.io/](http://www.getmdl.io/) | Google 基于 Material Design 规范出的框架
-Materialize | [http://materializecss.com/](http://materializecss.com/) | 基于 Material Design 的前端框架
 
 ## 教程
 
