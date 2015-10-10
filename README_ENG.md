@@ -100,6 +100,9 @@ to-markdown | [https://domchristie.github.io/to-markdown/](https://domchristie.g
 jsDoc | [http://usejsdoc.org/](http://usejsdoc.org/) | js api document generator
 pikaday | [https://github.com/dbushell/Pikaday](https://github.com/dbushell/Pikaday) | A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
 moment.js | [http://momentjs.com/](http://momentjs.com/) | Parse, validate, manipulate, and display dates in JavaScript.
+CSSOM | [https://github.com/NV/CSSOM](https://github.com/NV/CSSOM) | CSS Object Model implemented in pure JavaScript.
+postCSS | [https://github.com/postcss/postcss](https://github.com/postcss/postcss) | PostCSS is a tool for transforming styles with JS plugins.
+autoPrefixer | [https://github.com/postcss/autoprefixer](https://github.com/postcss/autoprefixer) | Parse CSS and add vendor prefixes to rules by Can I Use
 
 ## Spec
 
