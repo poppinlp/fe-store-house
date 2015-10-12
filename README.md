@@ -66,6 +66,9 @@ w3ctech | [http://www.w3ctech.com](http://www.w3ctech.com/) | w3ctech
 -----|------|-----
 Grunt | [http://gruntjs.com](http://gruntjs.com/) | JavaScript任务执行工具
 Gulp | [http://gulpjs.com](http://gulpjs.com/) | Javascript任务执行工具
+chalk | [https://github.com/chalk/chalk](https://github.com/chalk/chalk) | Terminal string styling done right
+phantomJS | [http://phantomjs.org/](http://phantomjs.org/) | PhantomJS is a headless WebKit scriptable with a JavaScript API.
+casperJS | [http://casperjs.org/](http://casperjs.org/) | CasperJS is a navigation scripting & testing utility
 spritesmith | [https://github.com/Ensighten/spritesmith](https://github.com/Ensighten/spritesmith) | 很不错的自动合并 icon 的工具
 zepto.js | [http://zeptojs.com](http://zeptojs.com/) | 精巧的js框架
 Amaze UI | [http://amazeui.org](http://amazeui.org/) | 国内开源HTML5跨屏框架
@@ -111,6 +114,8 @@ fullPage.js | [http://alvarotrigo.com/fullPage/](http://alvarotrigo.com/fullPage
 CSSOM | [https://github.com/NV/CSSOM](https://github.com/NV/CSSOM) | CSS Object Model implemented in pure JavaScript.
 postCSS | [https://github.com/postcss/postcss](https://github.com/postcss/postcss) | PostCSS is a tool for transforming styles with JS plugins.
 autoPrefixer | [https://github.com/postcss/autoprefixer](https://github.com/postcss/autoprefixer) | Parse CSS and add vendor prefixes to rules by Can I Use
+jquery-pjax | [http://pjax.herokuapp.com/](http://pjax.herokuapp.com/) | pushState + ajax = pjax
+request | [https://github.com/request/request](https://github.com/request/request) | Simplified HTTP request client.
 
 ## 规范相关
 
