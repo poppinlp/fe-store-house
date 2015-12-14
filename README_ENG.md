@@ -114,6 +114,7 @@ postCSS | [https://github.com/postcss/postcss](https://github.com/postcss/postcs
 autoPrefixer | [https://github.com/postcss/autoprefixer](https://github.com/postcss/autoprefixer) | Parse CSS and add vendor prefixes to rules by Can I Use
 jquery-pjax | [http://pjax.herokuapp.com/](http://pjax.herokuapp.com/) | pushState + ajax = pjax
 request | [https://github.com/request/request](https://github.com/request/request) | Simplified HTTP request client.
+psd.js | [https://github.com/meltingice/psd.js](https://github.com/meltingice/psd.js) | A Photoshop PSD file parser for NodeJS and browsers
 
 ## Spec
 
