@@ -71,6 +71,8 @@ phantomJS | [http://phantomjs.org/](http://phantomjs.org/) | PhantomJS is a head
 casperJS | [http://casperjs.org/](http://casperjs.org/) | CasperJS is a navigation scripting & testing utility
 spritesmith | [https://github.com/Ensighten/spritesmith](https://github.com/Ensighten/spritesmith) | 很不错的自动合并 icon 的工具
 zepto.js | [http://zeptojs.com](http://zeptojs.com/) | 精巧的js框架
+underscore | [http://underscorejs.org/](http://underscorejs.org/) | A JavaScript library
+lodash | [https://lodash.com/](https://lodash.com/) | A modern JavaScript utility library delivering modularity, performance, & extras.
 Amaze UI | [http://amazeui.org](http://amazeui.org/) | 国内开源HTML5跨屏框架
 FIS | [http://fis.baidu.com](http://fis.baidu.com/) | 前端工具框架
 ACE | [http://ace.c9.io/](http://ace.c9.io/) | c9.io 使用的很棒的代码编辑器
@@ -85,6 +87,7 @@ Jekyll | [http://jekyllrb.com](http://jekyllrb.com/) | 静态网站搭建工具
 nodePPT | [https://github.com/ksky521/nodePPT](https://github.com/ksky521/nodePPT) | markdown语法写ppt，支持远程控制等
 impress.js | [http://bartaz.github.io/impress.js](http://bartaz.github.io/impress.js/) | 用js做ppt
 browserify | [http://browserify.org](http://browserify.org/) | 让 CommonJS 的组件在浏览器里飞
+jsdom | [https://github.com/tmpvar/jsdom](https://github.com/tmpvar/jsdom) | A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js
 jshint | [http://jshint.com](http://jshint.com/) | js 检查工具
 hammer.js | [http://hammerjs.github.io](http://hammerjs.github.io/) | 模拟页面上的手势事件
 swipe.js | [http://swipejs.com](http://swipejs.com/) | 轻量级的移动端页面 slider
@@ -117,6 +120,7 @@ autoPrefixer | [https://github.com/postcss/autoprefixer](https://github.com/post
 jquery-pjax | [http://pjax.herokuapp.com/](http://pjax.herokuapp.com/) | pushState + ajax = pjax
 request | [https://github.com/request/request](https://github.com/request/request) | Simplified HTTP request client.
 psd.js | [https://github.com/meltingice/psd.js](https://github.com/meltingice/psd.js) | A Photoshop PSD file parser for NodeJS and browsers
+js-xlsx | [https://github.com/SheetJS/js-xlsx](https://github.com/SheetJS/js-xlsx) | XLSX / XLSM / XLSB / XLS / SpreadsheetML (Excel Spreadsheet) / ODS parser and writer
 
 ## 规范相关
 
@@ -128,6 +132,7 @@ Promises/A+ | [https://promisesaplus.com/](https://promisesaplus.com/) | promise
 CommonJS | [http://wiki.commonjs.org/wiki/CommonJS](http://wiki.commonjs.org/wiki/CommonJS) | commonjs wiki
 AMDJS | [https://github.com/amdjs/amdjs-api](https://github.com/amdjs/amdjs-api) | amdjs
 CMDJS | [https://github.com/cmdjs/specification](https://github.com/cmdjs/specification) | cmdjs
+JSON-schema | [http://json-schema.org/](http://json-schema.org/) | JSON Schema
 
 ## 教程
 
