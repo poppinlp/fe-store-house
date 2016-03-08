@@ -119,6 +119,9 @@ jquery-pjax | [http://pjax.herokuapp.com/](http://pjax.herokuapp.com/) | pushSta
 request | [https://github.com/request/request](https://github.com/request/request) | Simplified HTTP request client.
 psd.js | [https://github.com/meltingice/psd.js](https://github.com/meltingice/psd.js) | A Photoshop PSD file parser for NodeJS and browsers
 js-xlsx | [https://github.com/SheetJS/js-xlsx](https://github.com/SheetJS/js-xlsx) | XLSX / XLSM / XLSB / XLS / SpreadsheetML (Excel Spreadsheet) / ODS parser and writer
+alloyImage | [https://github.com/AlloyTeam/AlloyImage](https://github.com/AlloyTeam/AlloyImage) | An image processing lib based on html5
+messagePack | [http://msgpack.org/](http://msgpack.org/) | MessagePack is an efficient binary serialization format
+Protocol Buffers | [https://developers.google.com/protocol-buffers/](https://developers.google.com/protocol-buffers/) | Protocol buffers are a language-neutral, platform-neutral extensible mechanism for serializing structured data.
 
 ## Spec
 
