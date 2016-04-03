@@ -122,6 +122,23 @@ js-xlsx | [https://github.com/SheetJS/js-xlsx](https://github.com/SheetJS/js-xls
 alloyImage | [https://github.com/AlloyTeam/AlloyImage](https://github.com/AlloyTeam/AlloyImage) | An image processing lib based on html5
 messagePack | [http://msgpack.org/](http://msgpack.org/) | MessagePack is an efficient binary serialization format
 Protocol Buffers | [https://developers.google.com/protocol-buffers/](https://developers.google.com/protocol-buffers/) | Protocol buffers are a language-neutral, platform-neutral extensible mechanism for serializing structured data.
+rollup | [http://rollupjs.org/](http://rollupjs.org/) | the next-generation JavaScript module bundler
+documentation.js | [http://documentation.js.org/](http://documentation.js.org/) | beautiful, flexible, powerful js docs
+fontello | [http://fontello.com/](http://fontello.com/) | online iconfont generator
+feathers | [http://feathersjs.com/](http://feathersjs.com/) | A minimalist real-time framework for tomorrow's apps
+pandoc | [http://pandoc.org/](http://pandoc.org/) | a universal document converter
+
+## Atom Plugins
+
+NAME | LINK | SUMMARY
+-----|------|-----
+seti-ui | [https://atom.io/themes/seti-ui](https://atom.io/themes/seti-ui) | a pretty nice dark colored theme
+file-icons | [https://atom.io/packages/file-icons](https://atom.io/packages/file-icons) | icon plugin
+atom-ternjs | [https://atom.io/packages/atom-ternjs](https://atom.io/packages/atom-ternjs) | JavaScript code intelligence for atom with Tern
+emmet | [https://atom.io/packages/emmet](https://atom.io/packages/emmet) | the essential tool for web developers
+minimap | [https://atom.io/packages/minimap](https://atom.io/packages/minimap) | A preview of the full source code.
+vim-mode | [https://atom.io/packages/vim-mode](https://atom.io/packages/vim-mode) | vim plugin
+ex-mode | [https://atom.io/packages/ex-mode](https://atom.io/packages/ex-mode) | Ex for Atom's vim-mode
 
 ## Spec
 
@@ -145,6 +162,7 @@ Git 在线入门教程 | [http://pcottle.github.io/learnGitBranching/?locale=zh_
 ProGit 中文版 | [http://git.oschina.net/progit/](http://git.oschina.net/progit/) | 很棒的一本讲 Git 的书，这是网页版，当然也有很多地方能下载到 pdf 版
 CSS 布局水平垂直居中总结 | [http://f2e.souche.com/blog/jie-du-cssbu-ju-zhi-shui-ping-chui-zhi-ju-zhong/](http://f2e.souche.com/blog/jie-du-cssbu-ju-zhi-shui-ping-chui-zhi-ju-zhong/) | 总结的挺全面
 understanding ES6 | [https://github.com/nzakas/understandinges6](https://github.com/nzakas/understandinges6) | NZ 大神的书
+ECMAScript 6 入门 | [http://es6.ruanyifeng.com/](http://es6.ruanyifeng.com/) | 阮一峰老师的教程
 
 ## Interesting
 

@@ -124,6 +124,23 @@ js-xlsx | [https://github.com/SheetJS/js-xlsx](https://github.com/SheetJS/js-xls
 alloyImage | [https://github.com/AlloyTeam/AlloyImage](https://github.com/AlloyTeam/AlloyImage) | 基于HTML5的专业级图像处理开源引擎
 messagePack | [http://msgpack.org/](http://msgpack.org/) | MessagePack is an efficient binary serialization format
 Protocol Buffers | [https://developers.google.com/protocol-buffers/](https://developers.google.com/protocol-buffers/) | Protocol buffers are a language-neutral, platform-neutral extensible mechanism for serializing structured data.
+rollup | [http://rollupjs.org/](http://rollupjs.org/) | 不错的 ES 6 模块处理器
+documentation.js | [http://documentation.js.org/](http://documentation.js.org/) | 不错的 JS 文档工具
+fontello | [http://fontello.com/](http://fontello.com/) | 在线 iconfont 生成工具
+feathers | [http://feathersjs.com/](http://feathersjs.com/) | 实时交互框架
+pandoc | [http://pandoc.org/](http://pandoc.org/) | 比较全面的文档转换工具
+
+## Atom 插件
+
+名称 | 地址 | 介绍
+-----|------|-----
+seti-ui | [https://atom.io/themes/seti-ui](https://atom.io/themes/seti-ui) | 很棒的深色主题
+file-icons | [https://atom.io/packages/file-icons](https://atom.io/packages/file-icons) | 不错的图标插件
+atom-ternjs | [https://atom.io/packages/atom-ternjs](https://atom.io/packages/atom-ternjs) | 还不错的 JS 补全插件
+emmet | [https://atom.io/packages/emmet](https://atom.io/packages/emmet) | 写 HTML 很爽
+minimap | [https://atom.io/packages/minimap](https://atom.io/packages/minimap) | 全文内容预览
+vim-mode | [https://atom.io/packages/vim-mode](https://atom.io/packages/vim-mode) | vim 插件
+ex-mode | [https://atom.io/packages/ex-mode](https://atom.io/packages/ex-mode) | vim 插件的扩展，推荐一起使用
 
 ## 规范相关
 
@@ -147,6 +164,7 @@ Git 在线入门教程 | [http://pcottle.github.io/learnGitBranching/?locale=zh_
 ProGit 中文版 | [http://git.oschina.net/progit/](http://git.oschina.net/progit/) | 很棒的一本讲 Git 的书，这是网页版，当然也有很多地方能下载到 pdf 版
 CSS 布局水平垂直居中总结 | [http://f2e.souche.com/blog/jie-du-cssbu-ju-zhi-shui-ping-chui-zhi-ju-zhong/](http://f2e.souche.com/blog/jie-du-cssbu-ju-zhi-shui-ping-chui-zhi-ju-zhong/) | 总结的挺全面
 understanding ES6 | [https://github.com/nzakas/understandinges6](https://github.com/nzakas/understandinges6) | NZ 大神的书
+ECMAScript 6 入门 | [http://es6.ruanyifeng.com/](http://es6.ruanyifeng.com/) | 阮一峰老师的教程
 
 ## 有点意思
 
