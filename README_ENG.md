@@ -127,6 +127,7 @@ documentation.js | [http://documentation.js.org/](http://documentation.js.org/) 
 fontello | [http://fontello.com/](http://fontello.com/) | online iconfont generator
 feathers | [http://feathersjs.com/](http://feathersjs.com/) | A minimalist real-time framework for tomorrow's apps
 pandoc | [http://pandoc.org/](http://pandoc.org/) | a universal document converter
+stacktrace.js | [http://www.stacktracejs.com/](http://www.stacktracejs.com/) | Generate, parse, and enhance JavaScript stack traces in all web browsers
 
 ## Atom Plugins
 

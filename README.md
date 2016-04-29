@@ -129,6 +129,7 @@ documentation.js | [http://documentation.js.org/](http://documentation.js.org/) 
 fontello | [http://fontello.com/](http://fontello.com/) | 在线 iconfont 生成工具
 feathers | [http://feathersjs.com/](http://feathersjs.com/) | 实时交互框架
 pandoc | [http://pandoc.org/](http://pandoc.org/) | 比较全面的文档转换工具
+stacktrace.js | [http://www.stacktracejs.com/](http://www.stacktracejs.com/) | 针对主流浏览器的 stacktrace 工具库
 
 ## Atom 插件
 
