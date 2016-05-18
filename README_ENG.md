@@ -129,6 +129,7 @@ feathers | [http://feathersjs.com/](http://feathersjs.com/) | A minimalist real-
 pandoc | [http://pandoc.org/](http://pandoc.org/) | a universal document converter
 stacktrace.js | [http://www.stacktracejs.com/](http://www.stacktracejs.com/) | Generate, parse, and enhance JavaScript stack traces in all web browsers
 cssnano | [http://cssnano.co/](http://cssnano.co/) | compress your css
+localForage | [https://mozilla.github.io/localForage/](https://mozilla.github.io/localForage/) | A nice lib for offline storage
 
 ## Atom Plugins
 

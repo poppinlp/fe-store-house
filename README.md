@@ -131,6 +131,7 @@ feathers | [http://feathersjs.com/](http://feathersjs.com/) | 实时交互框架
 pandoc | [http://pandoc.org/](http://pandoc.org/) | 比较全面的文档转换工具
 stacktrace.js | [http://www.stacktracejs.com/](http://www.stacktracejs.com/) | 针对主流浏览器的 stacktrace 工具库
 cssnano | [http://cssnano.co/](http://cssnano.co/) | 一个不错的 CSS 压缩插件
+localForage | [https://mozilla.github.io/localForage/](https://mozilla.github.io/localForage/) | 挺不错的本地缓存库
 
 ## Atom 插件
 
