@@ -115,8 +115,6 @@ pdf.js | [https://github.com/mozilla/pdf.js](https://github.com/mozilla/pdf.js) 
 lazy.js | [http://danieltao.com/lazy.js/](http://danieltao.com/lazy.js/) | Like Underscore, but lazier
 fullPage.js | [http://alvarotrigo.com/fullPage/](http://alvarotrigo.com/fullPage/) | Create Beautiful Fullscreen Scrolling Websites
 CSSOM | [https://github.com/NV/CSSOM](https://github.com/NV/CSSOM) | CSS Object Model implemented in pure JavaScript.
-postCSS | [https://github.com/postcss/postcss](https://github.com/postcss/postcss) | PostCSS is a tool for transforming styles with JS plugins.
-autoPrefixer | [https://github.com/postcss/autoprefixer](https://github.com/postcss/autoprefixer) | Parse CSS and add vendor prefixes to rules by Can I Use
 jquery-pjax | [http://pjax.herokuapp.com/](http://pjax.herokuapp.com/) | pushState + ajax = pjax
 request | [https://github.com/request/request](https://github.com/request/request) | Simplified HTTP request client.
 psd.js | [https://github.com/meltingice/psd.js](https://github.com/meltingice/psd.js) | A Photoshop PSD file parser for NodeJS and browsers
@@ -130,7 +128,10 @@ fontello | [http://fontello.com/](http://fontello.com/) | 在线 iconfont 生成
 feathers | [http://feathersjs.com/](http://feathersjs.com/) | 实时交互框架
 pandoc | [http://pandoc.org/](http://pandoc.org/) | 比较全面的文档转换工具
 stacktrace.js | [http://www.stacktracejs.com/](http://www.stacktracejs.com/) | 针对主流浏览器的 stacktrace 工具库
+postCSS | [https://github.com/postcss/postcss](https://github.com/postcss/postcss) | PostCSS is a tool for transforming styles with JS plugins.
+autoPrefixer | [https://github.com/postcss/autoprefixer](https://github.com/postcss/autoprefixer) | Parse CSS and add vendor prefixes to rules by Can I Use
 cssnano | [http://cssnano.co/](http://cssnano.co/) | 一个不错的 CSS 压缩插件
+precss | [https://jonathantneal.github.io/precss/](https://jonathantneal.github.io/precss/) | Use Sass-like markup in your CSS
 localForage | [https://mozilla.github.io/localForage/](https://mozilla.github.io/localForage/) | 挺不错的本地缓存库
 
 ## Atom 插件

@@ -113,8 +113,6 @@ pdf.js | [https://github.com/mozilla/pdf.js](https://github.com/mozilla/pdf.js) 
 lazy.js | [http://danieltao.com/lazy.js/](http://danieltao.com/lazy.js/) | Like Underscore, but lazier
 fullPage.js | [http://alvarotrigo.com/fullPage/](http://alvarotrigo.com/fullPage/) | Create Beautiful Fullscreen Scrolling Websites
 CSSOM | [https://github.com/NV/CSSOM](https://github.com/NV/CSSOM) | CSS Object Model implemented in pure JavaScript.
-postCSS | [https://github.com/postcss/postcss](https://github.com/postcss/postcss) | PostCSS is a tool for transforming styles with JS plugins.
-autoPrefixer | [https://github.com/postcss/autoprefixer](https://github.com/postcss/autoprefixer) | Parse CSS and add vendor prefixes to rules by Can I Use
 jquery-pjax | [http://pjax.herokuapp.com/](http://pjax.herokuapp.com/) | pushState + ajax = pjax
 request | [https://github.com/request/request](https://github.com/request/request) | Simplified HTTP request client.
 psd.js | [https://github.com/meltingice/psd.js](https://github.com/meltingice/psd.js) | A Photoshop PSD file parser for NodeJS and browsers
@@ -128,7 +126,10 @@ fontello | [http://fontello.com/](http://fontello.com/) | online iconfont genera
 feathers | [http://feathersjs.com/](http://feathersjs.com/) | A minimalist real-time framework for tomorrow's apps
 pandoc | [http://pandoc.org/](http://pandoc.org/) | a universal document converter
 stacktrace.js | [http://www.stacktracejs.com/](http://www.stacktracejs.com/) | Generate, parse, and enhance JavaScript stack traces in all web browsers
+postCSS | [https://github.com/postcss/postcss](https://github.com/postcss/postcss) | PostCSS is a tool for transforming styles with JS plugins.
+autoPrefixer | [https://github.com/postcss/autoprefixer](https://github.com/postcss/autoprefixer) | Parse CSS and add vendor prefixes to rules by Can I Use
 cssnano | [http://cssnano.co/](http://cssnano.co/) | compress your css
+precss | [https://jonathantneal.github.io/precss/](https://jonathantneal.github.io/precss/) | Use Sass-like markup in your CSS
 localForage | [https://mozilla.github.io/localForage/](https://mozilla.github.io/localForage/) | A nice lib for offline storage
 
 ## Atom Plugins
