@@ -131,6 +131,7 @@ autoPrefixer | [https://github.com/postcss/autoprefixer](https://github.com/post
 cssnano | [http://cssnano.co/](http://cssnano.co/) | compress your css
 precss | [https://jonathantneal.github.io/precss/](https://jonathantneal.github.io/precss/) | Use Sass-like markup in your CSS
 localForage | [https://mozilla.github.io/localForage/](https://mozilla.github.io/localForage/) | A nice lib for offline storage
+loader.css | [https://connoratherton.com/loaders](https://connoratherton.com/loaders) | Delightful and performance-focused pure css loading animations.
 
 ## Atom Plugins
 

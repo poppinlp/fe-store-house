@@ -133,6 +133,7 @@ autoPrefixer | [https://github.com/postcss/autoprefixer](https://github.com/post
 cssnano | [http://cssnano.co/](http://cssnano.co/) | 一个不错的 CSS 压缩插件
 precss | [https://jonathantneal.github.io/precss/](https://jonathantneal.github.io/precss/) | Use Sass-like markup in your CSS
 localForage | [https://mozilla.github.io/localForage/](https://mozilla.github.io/localForage/) | 挺不错的本地缓存库
+loader.css | [https://connoratherton.com/loaders](https://connoratherton.com/loaders) | Delightful and performance-focused pure css loading animations.
 
 ## Atom 插件
 
