@@ -108,8 +108,6 @@ to-markdown | [https://domchristie.github.io/to-markdown/](https://domchristie.g
 jsDoc | [http://usejsdoc.org/](http://usejsdoc.org/) | js api document generator
 pikaday | [https://github.com/dbushell/Pikaday](https://github.com/dbushell/Pikaday) | A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
 moment.js | [http://momentjs.com/](http://momentjs.com/) | Parse, validate, manipulate, and display dates in JavaScript.
-MDL | [http://www.getmdl.io/](http://www.getmdl.io/) | Google 基于 Material Design 规范出的框架
-Materialize | [http://materializecss.com/](http://materializecss.com/) | 基于 Material Design 的前端框架
 fastclick | [https://github.com/ftlabs/fastclick](https://github.com/ftlabs/fastclick) | Polyfill to remove click delays on browsers with touch UIs
 pdf.js | [https://github.com/mozilla/pdf.js](https://github.com/mozilla/pdf.js) | js pdf reader
 lazy.js | [http://danieltao.com/lazy.js/](http://danieltao.com/lazy.js/) | Like Underscore, but lazier
@@ -135,6 +133,15 @@ precss | [https://jonathantneal.github.io/precss/](https://jonathantneal.github.
 localForage | [https://mozilla.github.io/localForage/](https://mozilla.github.io/localForage/) | 挺不错的本地缓存库
 loader.css | [https://connoratherton.com/loaders](https://connoratherton.com/loaders) | Delightful and performance-focused pure css loading animations.
 GSAP | [https://github.com/greensock/GreenSock-JS/](https://github.com/greensock/GreenSock-JS/) | 性能很棒的 JS 动画库
+
+## About Material
+
+MDL | [http://www.getmdl.io/](http://www.getmdl.io/) | Google 基于 Material Design 规范出的框架
+Materialize | [http://materializecss.com/](http://materializecss.com/) | 基于 Material Design 的前端框架
+Material Icons | [http://google.github.io/material-design-icons/](http://google.github.io/material-design-icons/) | Google 关于 Material 图标的指南
+Material-ui | [http://www.material-ui.com/#/](http://www.material-ui.com/#/) | React Components
+Angular Material | [https://material.angularjs.org/latest/](https://material.angularjs.org/latest/) | UI Component framework for angular
+Bootstrap Material | [http://fezvrasta.github.io/bootstrap-material-design/](http://fezvrasta.github.io/bootstrap-material-design/) | Material Design for Bootstrap3
 
 ## Atom 插件
 

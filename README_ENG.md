@@ -106,8 +106,6 @@ to-markdown | [https://domchristie.github.io/to-markdown/](https://domchristie.g
 jsDoc | [http://usejsdoc.org/](http://usejsdoc.org/) | js api document generator
 pikaday | [https://github.com/dbushell/Pikaday](https://github.com/dbushell/Pikaday) | A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
 moment.js | [http://momentjs.com/](http://momentjs.com/) | Parse, validate, manipulate, and display dates in JavaScript.
-MDL | [http://www.getmdl.io/](http://www.getmdl.io/) | Google 基于 Material Design 规范出的框架
-Materialize | [http://materializecss.com/](http://materializecss.com/) | 基于 Material Design 的前端框架
 fastclick | [https://github.com/ftlabs/fastclick](https://github.com/ftlabs/fastclick) | Polyfill to remove click delays on browsers with touch UIs
 pdf.js | [https://github.com/mozilla/pdf.js](https://github.com/mozilla/pdf.js) | js pdf reader
 lazy.js | [http://danieltao.com/lazy.js/](http://danieltao.com/lazy.js/) | Like Underscore, but lazier
@@ -133,6 +131,15 @@ precss | [https://jonathantneal.github.io/precss/](https://jonathantneal.github.
 localForage | [https://mozilla.github.io/localForage/](https://mozilla.github.io/localForage/) | A nice lib for offline storage
 loader.css | [https://connoratherton.com/loaders](https://connoratherton.com/loaders) | Delightful and performance-focused pure css loading animations.
 GSAP | [https://github.com/greensock/GreenSock-JS/](https://github.com/greensock/GreenSock-JS/) | Ultra high-performance, professional-grade animation for the modern web.
+
+## About Material
+
+MDL | [http://www.getmdl.io/](http://www.getmdl.io/) | Material Design Lite Components in HTML/CSS/JS
+Materialize | [http://materializecss.com/](http://materializecss.com/) | A modern responsive front-end framework based on Material Design
+Material Icons | [http://google.github.io/material-design-icons/](http://google.github.io/material-design-icons/) | An overview of material icons
+Material-ui | [http://www.material-ui.com/#/](http://www.material-ui.com/#/) | A Set of React Components that Implement Google’s Material Design
+Angular Material | [https://material.angularjs.org/latest/](https://material.angularjs.org/latest/) | UI Component framework for angular
+Bootstrap Material | [http://fezvrasta.github.io/bootstrap-material-design/](http://fezvrasta.github.io/bootstrap-material-design/) | Material Design for Bootstrap3
 
 ## Atom Plugins
 
