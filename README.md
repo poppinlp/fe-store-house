@@ -133,9 +133,12 @@ precss | [https://jonathantneal.github.io/precss/](https://jonathantneal.github.
 localForage | [https://mozilla.github.io/localForage/](https://mozilla.github.io/localForage/) | 挺不错的本地缓存库
 loader.css | [https://connoratherton.com/loaders](https://connoratherton.com/loaders) | Delightful and performance-focused pure css loading animations.
 GSAP | [https://github.com/greensock/GreenSock-JS/](https://github.com/greensock/GreenSock-JS/) | 性能很棒的 JS 动画库
+cssTriggers | [https://csstriggers.com/](https://csstriggers.com/) | CSS 属性对于重绘、重排和合成的影响
 
 ## About Material
 
+名称 | 地址 | 介绍
+-----|------|-----
 MDL | [http://www.getmdl.io/](http://www.getmdl.io/) | Google 基于 Material Design 规范出的框架
 Materialize | [http://materializecss.com/](http://materializecss.com/) | 基于 Material Design 的前端框架
 Material Icons | [http://google.github.io/material-design-icons/](http://google.github.io/material-design-icons/) | Google 关于 Material 图标的指南
