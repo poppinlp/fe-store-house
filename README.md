@@ -31,7 +31,7 @@ stackoverflow | [http://stackoverflow.com](http://stackoverflow.com) | 国外问
 SegmentFault | [http://segmentfault.com](http://segmentfault.com) | 国内问答社区
 DIV.IO | [http://div.io](http://div.io) | 国内前端社区
 
-## 牛人博客
+## 博客
 
 名称 | 地址 | 介绍
 -----|------|-----
@@ -134,6 +134,7 @@ localForage | [https://mozilla.github.io/localForage/](https://mozilla.github.io
 loader.css | [https://connoratherton.com/loaders](https://connoratherton.com/loaders) | Delightful and performance-focused pure css loading animations.
 GSAP | [https://github.com/greensock/GreenSock-JS/](https://github.com/greensock/GreenSock-JS/) | 性能很棒的 JS 动画库
 cssTriggers | [https://csstriggers.com/](https://csstriggers.com/) | CSS 属性对于重绘、重排和合成的影响
+nodemailer | [http://nodemailer.com/](http://nodemailer.com/) | 基于 Nodejs 的 email 工具
 
 ## About Material
 

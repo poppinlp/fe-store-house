@@ -132,10 +132,11 @@ localForage | [https://mozilla.github.io/localForage/](https://mozilla.github.io
 loader.css | [https://connoratherton.com/loaders](https://connoratherton.com/loaders) | Delightful and performance-focused pure css loading animations.
 GSAP | [https://github.com/greensock/GreenSock-JS/](https://github.com/greensock/GreenSock-JS/) | Ultra high-performance, professional-grade animation for the modern web.
 cssTriggers | [https://csstriggers.com/](https://csstriggers.com/) | CSS attibute trigger about layour, paint and composite
+nodemailer | [http://nodemailer.com/](http://nodemailer.com/) | Send e-mails with Node.JS
 
 ## About Material
 
-名称 | 地址 | 介绍
+NAME | LINK | SUMMARY
 -----|------|-----
 MDL | [http://www.getmdl.io/](http://www.getmdl.io/) | Material Design Lite Components in HTML/CSS/JS
 Materialize | [http://materializecss.com/](http://materializecss.com/) | A modern responsive front-end framework based on Material Design
@@ -144,7 +145,7 @@ Material-ui | [http://www.material-ui.com/#/](http://www.material-ui.com/#/) | A
 Angular Material | [https://material.angularjs.org/latest/](https://material.angularjs.org/latest/) | UI Component framework for angular
 Bootstrap Material | [http://fezvrasta.github.io/bootstrap-material-design/](http://fezvrasta.github.io/bootstrap-material-design/) | Material Design for Bootstrap3
 
-## Atom Plugins
+## Atom Plugin
 
 NAME | LINK | SUMMARY
 -----|------|-----
