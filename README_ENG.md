@@ -18,6 +18,9 @@ Sidebar | [http://sidebar.io](http://sidebar.io) | about design
 The Hacker News Newsletter | [http://www.hackernewsletter.com](http://www.hackernewsletter.com) | hackernews weekly
 Hack Design | [http://hackdesign.org](http://hackdesign.org) | about design
 SegmentFault | [http://segmentfault.com](http://segmentfault.com) | QA community in China
+EchoJS | [http://www.echojs.com/](http://www.echojs.com/) | EchoJS
+Reddit JS | [https://www.reddit.com/r/javascript](https://www.reddit.com/r/javascript) | redit javascript
+Front-End Front | [https://frontendfront.com/](https://frontendfront.com/) | Front-End Front
 
 ## Community
 
@@ -29,10 +32,11 @@ stackoverflow | [http://stackoverflow.com](http://stackoverflow.com) | stackover
 SegmentFault | [http://segmentfault.com](http://segmentfault.com) | QA community in China
 DIV.IO | [http://div.io](http://div.io) | front-end community in China
 
-## Rock blog
+## Rock
 
 NAME | LINK | SUMMARY
 -----|------|-----
+InfoQ | [http://www.infoq.com/](http://www.infoq.com/) | InfoQ
 W3Cplus | [http://www.w3cplus.com](http://www.w3cplus.com) | 以css3、html5、Javascript和各类demo为主，推广国内前端行业的技术博客
 前端观察 | [http://www.qianduan.net](http://www.qianduan.net) | 前端技术文章
 百度EFE | [http://efe.baidu.com](http://efe.baidu.com) | 百度商业体系前端团队
@@ -57,6 +61,8 @@ Krasimir Tsonev | [http://krasimirtsonev.com](http://krasimirtsonev.com) | Krasi
 soho UX | [http://ux.sohu.com](http://ux.sohu.com/) | sohu UX
 w3ctech | [http://www.w3ctech.com](http://www.w3ctech.com/) | w3ctech
 阿里妈妈 MUX | [http://mux.alimama.com/](http://mux.alimama.com/) | 阿里妈妈的用户体验部门
+sitepoint | [https://www.sitepoint.com/](https://www.sitepoint.com/) | sitepoint
+掘金 | [http://gold.xitu.io/](http://gold.xitu.io/) | 掘金
 
 ## Tool
 
