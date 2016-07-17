@@ -141,6 +141,7 @@ loader.css | [https://connoratherton.com/loaders](https://connoratherton.com/loa
 GSAP | [https://github.com/greensock/GreenSock-JS/](https://github.com/greensock/GreenSock-JS/) | 性能很棒的 JS 动画库
 cssTriggers | [https://csstriggers.com/](https://csstriggers.com/) | CSS 属性对于重绘、重排和合成的影响
 nodemailer | [http://nodemailer.com/](http://nodemailer.com/) | 基于 Nodejs 的 email 工具
+riot | [https://github.com/riot/riot](https://github.com/riot/riot) | 一个很轻量的 UI 库
 
 ## About Material
 
@@ -164,6 +165,9 @@ emmet | [https://atom.io/packages/emmet](https://atom.io/packages/emmet) | 写 H
 minimap | [https://atom.io/packages/minimap](https://atom.io/packages/minimap) | 全文内容预览
 vim-mode | [https://atom.io/packages/vim-mode](https://atom.io/packages/vim-mode) | vim 插件
 ex-mode | [https://atom.io/packages/ex-mode](https://atom.io/packages/ex-mode) | vim 插件的扩展，推荐一起使用
+linter-eslint | [https://atom.io/packages/linter-eslint](https://atom.io/packages/linter-eslint) | eslint 的插件
+linter-htmlhint | [https://atom.io/packages/linter-htmlhint](https://atom.io/packages/linter-htmlhint) | htmlhint 的插件
+pigments | [https://atom.io/packages/pigments](https://atom.io/packages/pigments) | 在文件中显示颜色
 
 ## 规范相关
 

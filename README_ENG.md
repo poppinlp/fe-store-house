@@ -139,6 +139,7 @@ loader.css | [https://connoratherton.com/loaders](https://connoratherton.com/loa
 GSAP | [https://github.com/greensock/GreenSock-JS/](https://github.com/greensock/GreenSock-JS/) | Ultra high-performance, professional-grade animation for the modern web.
 cssTriggers | [https://csstriggers.com/](https://csstriggers.com/) | CSS attibute trigger about layour, paint and composite
 nodemailer | [http://nodemailer.com/](http://nodemailer.com/) | Send e-mails with Node.JS
+riot | [https://github.com/riot/riot](https://github.com/riot/riot) | A React-like, user interface library
 
 ## About Material
 
@@ -162,6 +163,9 @@ emmet | [https://atom.io/packages/emmet](https://atom.io/packages/emmet) | the e
 minimap | [https://atom.io/packages/minimap](https://atom.io/packages/minimap) | A preview of the full source code.
 vim-mode | [https://atom.io/packages/vim-mode](https://atom.io/packages/vim-mode) | vim plugin
 ex-mode | [https://atom.io/packages/ex-mode](https://atom.io/packages/ex-mode) | Ex for Atom's vim-mode
+linter-eslint | [https://atom.io/packages/linter-eslint](https://atom.io/packages/linter-eslint) | plugin for eslint
+linter-htmlhint | [https://atom.io/packages/linter-htmlhint](https://atom.io/packages/linter-htmlhint) | plugin for htmlhint
+pigments | [https://atom.io/packages/pigments](https://atom.io/packages/pigments) | display colors in project and files
 
 ## Spec
 
