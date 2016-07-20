@@ -140,6 +140,8 @@ GSAP | [https://github.com/greensock/GreenSock-JS/](https://github.com/greensock
 cssTriggers | [https://csstriggers.com/](https://csstriggers.com/) | CSS attibute trigger about layour, paint and composite
 nodemailer | [http://nodemailer.com/](http://nodemailer.com/) | Send e-mails with Node.JS
 riot | [https://github.com/riot/riot](https://github.com/riot/riot) | A React-like, user interface library
+amp | [https://github.com/ampproject/amphtml](https://github.com/ampproject/amphtml) | AMP project
+weex | [https://github.com/alibaba/weex](https://github.com/alibaba/weex) | alibaba weex
 
 ## About Material
 

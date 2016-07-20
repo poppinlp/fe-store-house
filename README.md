@@ -142,6 +142,8 @@ GSAP | [https://github.com/greensock/GreenSock-JS/](https://github.com/greensock
 cssTriggers | [https://csstriggers.com/](https://csstriggers.com/) | CSS 属性对于重绘、重排和合成的影响
 nodemailer | [http://nodemailer.com/](http://nodemailer.com/) | 基于 Nodejs 的 email 工具
 riot | [https://github.com/riot/riot](https://github.com/riot/riot) | 一个很轻量的 UI 库
+amp | [https://github.com/ampproject/amphtml](https://github.com/ampproject/amphtml) | AMP project
+weex | [https://github.com/alibaba/weex](https://github.com/alibaba/weex) | alibaba weex
 
 ## About Material
 
