@@ -145,6 +145,8 @@ riot | [https://github.com/riot/riot](https://github.com/riot/riot) | 一个很�
 amp | [https://github.com/ampproject/amphtml](https://github.com/ampproject/amphtml) | AMP project
 weex | [https://github.com/alibaba/weex](https://github.com/alibaba/weex) | alibaba weex
 polyfill-service | [https://github.com/Financial-Times/polyfill-service](https://github.com/Financial-Times/polyfill-service) | 自动化的 polyfill 服务
+medium-editor | [https://github.com/yabwe/medium-editor](https://github.com/yabwe/medium-editor) | Medium.com 的所见即所得编辑器
+summernote | [https://github.com/summernote/summernote](https://github.com/summernote/summernote) | 简单的所见即所得编辑器
 
 ## About Material
 

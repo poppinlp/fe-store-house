@@ -143,6 +143,8 @@ riot | [https://github.com/riot/riot](https://github.com/riot/riot) | A React-li
 amp | [https://github.com/ampproject/amphtml](https://github.com/ampproject/amphtml) | AMP project
 weex | [https://github.com/alibaba/weex](https://github.com/alibaba/weex) | alibaba weex
 polyfill-service | [https://github.com/Financial-Times/polyfill-service](https://github.com/Financial-Times/polyfill-service) | Automatic polyfill service
+medium-editor | [https://github.com/yabwe/medium-editor](https://github.com/yabwe/medium-editor) | Medium.com WYSIWYG editor
+summernote | [https://github.com/summernote/summernote](https://github.com/summernote/summernote) | WYSIWYG editor
 
 ## About Material
 
