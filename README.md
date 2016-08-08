@@ -147,6 +147,7 @@ weex | [https://github.com/alibaba/weex](https://github.com/alibaba/weex) | alib
 polyfill-service | [https://github.com/Financial-Times/polyfill-service](https://github.com/Financial-Times/polyfill-service) | 自动化的 polyfill 服务
 medium-editor | [https://github.com/yabwe/medium-editor](https://github.com/yabwe/medium-editor) | Medium.com 的所见即所得编辑器
 summernote | [https://github.com/summernote/summernote](https://github.com/summernote/summernote) | 简单的所见即所得编辑器
+ramda | [https://github.com/ramda/ramda](https://github.com/ramda/ramda) | 函数式编程库
 
 ## About Material
 
