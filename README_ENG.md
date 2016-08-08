@@ -145,6 +145,7 @@ weex | [https://github.com/alibaba/weex](https://github.com/alibaba/weex) | alib
 polyfill-service | [https://github.com/Financial-Times/polyfill-service](https://github.com/Financial-Times/polyfill-service) | Automatic polyfill service
 medium-editor | [https://github.com/yabwe/medium-editor](https://github.com/yabwe/medium-editor) | Medium.com WYSIWYG editor
 summernote | [https://github.com/summernote/summernote](https://github.com/summernote/summernote) | WYSIWYG editor
+ramda | [https://github.com/ramda/ramda](https://github.com/ramda/ramda) | Functional programming library
 
 ## About Material
 
