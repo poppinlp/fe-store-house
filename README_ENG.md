@@ -146,6 +146,11 @@ polyfill-service | [https://github.com/Financial-Times/polyfill-service](https:/
 medium-editor | [https://github.com/yabwe/medium-editor](https://github.com/yabwe/medium-editor) | Medium.com WYSIWYG editor
 summernote | [https://github.com/summernote/summernote](https://github.com/summernote/summernote) | WYSIWYG editor
 ramda | [https://github.com/ramda/ramda](https://github.com/ramda/ramda) | Functional programming library
+vue | [http://vuejs.org/](http://vuejs.org/) | The Progressive JavaScript Framework
+webpack | [http://webpack.github.io/](http://webpack.github.io/) | A bundler for javascript and friends.
+flow | [https://flowtype.org/](https://flowtype.org/) | A STATIC TYPE CHECKER FOR JAVASCRIPT
+yarn | [https://yarnpkg.com/](https://yarnpkg.com/) | Fast, reliable, and secure dependency management.
+chocolatey | [https://chocolatey.org/](https://chocolatey.org/) | The package manager for Windows
 
 ## About Material
 

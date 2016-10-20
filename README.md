@@ -148,6 +148,11 @@ polyfill-service | [https://github.com/Financial-Times/polyfill-service](https:/
 medium-editor | [https://github.com/yabwe/medium-editor](https://github.com/yabwe/medium-editor) | Medium.com 的所见即所得编辑器
 summernote | [https://github.com/summernote/summernote](https://github.com/summernote/summernote) | 简单的所见即所得编辑器
 ramda | [https://github.com/ramda/ramda](https://github.com/ramda/ramda) | 函数式编程库
+vue | [http://vuejs.org/](http://vuejs.org/) | 很棒的 JS 框架
+webpack | [http://webpack.github.io/](http://webpack.github.io/) | 大名鼎鼎的打包工具
+flow | [https://flowtype.org/](https://flowtype.org/) | JS 静态类型检查工具
+yarn | [https://yarnpkg.com/](https://yarnpkg.com/) | node 依赖理工具
+chocolatey | [https://chocolatey.org/](https://chocolatey.org/) | windows 包管理工具
 
 ## About Material
 
