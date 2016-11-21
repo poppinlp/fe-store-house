@@ -151,6 +151,8 @@ webpack | [http://webpack.github.io/](http://webpack.github.io/) | A bundler for
 flow | [https://flowtype.org/](https://flowtype.org/) | A STATIC TYPE CHECKER FOR JAVASCRIPT
 yarn | [https://yarnpkg.com/](https://yarnpkg.com/) | Fast, reliable, and secure dependency management.
 chocolatey | [https://chocolatey.org/](https://chocolatey.org/) | The package manager for Windows
+swagger | [http://swagger.io/](http://swagger.io/) | The World’s Most Popular Framework for APIs.
+graphQL | [http://graphql.org/](http://graphql.org/) | A query language for your API
 
 ## About Material
 

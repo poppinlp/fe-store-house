@@ -153,6 +153,8 @@ webpack | [http://webpack.github.io/](http://webpack.github.io/) | 大名鼎鼎�
 flow | [https://flowtype.org/](https://flowtype.org/) | JS 静态类型检查工具
 yarn | [https://yarnpkg.com/](https://yarnpkg.com/) | node 依赖理工具
 chocolatey | [https://chocolatey.org/](https://chocolatey.org/) | windows 包管理工具
+swagger | [http://swagger.io/](http://swagger.io/) | The World’s Most Popular Framework for APIs.
+graphQL | [http://graphql.org/](http://graphql.org/) | A query language for your API
 
 ## About Material
 
