@@ -155,6 +155,13 @@ yarn | [https://yarnpkg.com/](https://yarnpkg.com/) | node 依赖理工具
 chocolatey | [https://chocolatey.org/](https://chocolatey.org/) | windows 包管理工具
 swagger | [http://swagger.io/](http://swagger.io/) | The World’s Most Popular Framework for APIs.
 graphQL | [http://graphql.org/](http://graphql.org/) | A query language for your API
+superagent | [https://github.com/visionmedia/superagent](https://github.com/visionmedia/superagent) | Ajax with less suck - (and node.js HTTP client to match)
+request | [https://github.com/request/request](https://github.com/request/request) | Simplified HTTP request client.
+request-promise | [https://github.com/request/request-promise](https://github.com/request/request-promise) | The simplified HTTP request client 'request' with Promise support.
+rxjs | [https://github.com/ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) | A reactive programming library for JavaScript
+commander | [https://github.com/tj/commander.js](https://github.com/tj/commander.js) | node.js command-line interfaces made easy
+node-semver | [https://github.com/npm/node-semver](https://github.com/npm/node-semver) | The semver parser for node (the one npm uses)
+node-emoji | [https://github.com/omnidan/node-emoji](https://github.com/omnidan/node-emoji) | simple emoji support for node.js projects
 
 ## About Material
 
