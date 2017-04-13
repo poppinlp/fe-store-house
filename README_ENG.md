@@ -17,10 +17,10 @@ Responsive Design Newsletter | [http://responsivedesignweekly.com](http://respon
 Sidebar | [http://sidebar.io](http://sidebar.io) | about design
 The Hacker News Newsletter | [http://www.hackernewsletter.com](http://www.hackernewsletter.com) | hackernews weekly
 Hack Design | [http://hackdesign.org](http://hackdesign.org) | about design
-SegmentFault | [http://segmentfault.com](http://segmentfault.com) | QA community in China
 EchoJS | [http://www.echojs.com/](http://www.echojs.com/) | EchoJS
-Reddit JS | [https://www.reddit.com/r/javascript](https://www.reddit.com/r/javascript) | redit javascript
+Reddit JS | [https://www.reddit.com/r/javascript](https://www.reddit.com/r/javascript) | javascript of reddit
 Front-End Front | [https://frontendfront.com/](https://frontendfront.com/) | Front-End Front
+FE Weekly | [http://www.feweekly.com/](http://www.feweekly.com/) | fe weekly with Chinese intro
 
 ## Community
 
@@ -31,8 +31,9 @@ cnode | [http://cnodejs.org](http://cnodejs.org) | nodejs community in China
 stackoverflow | [http://stackoverflow.com](http://stackoverflow.com) | stackoverflow
 SegmentFault | [http://segmentfault.com](http://segmentfault.com) | QA community in China
 DIV.IO | [http://div.io](http://div.io) | front-end community in China
+juejin | [https://juejin.im/](https://juejin.im/) | dev forum in China
 
-## Rock
+## Blog
 
 NAME | LINK | SUMMARY
 -----|------|-----
@@ -62,7 +63,6 @@ soho UX | [http://ux.sohu.com](http://ux.sohu.com/) | sohu UX
 w3ctech | [http://www.w3ctech.com](http://www.w3ctech.com/) | w3ctech
 阿里妈妈 MUX | [http://mux.alimama.com/](http://mux.alimama.com/) | 阿里妈妈的用户体验部门
 sitepoint | [https://www.sitepoint.com/](https://www.sitepoint.com/) | sitepoint
-掘金 | [http://gold.xitu.io/](http://gold.xitu.io/) | 掘金
 
 ## Tool
 
@@ -160,6 +160,13 @@ rxjs | [https://github.com/ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) | 
 commander | [https://github.com/tj/commander.js](https://github.com/tj/commander.js) | node.js command-line interfaces made easy
 node-semver | [https://github.com/npm/node-semver](https://github.com/npm/node-semver) | The semver parser for node (the one npm uses)
 node-emoji | [https://github.com/omnidan/node-emoji](https://github.com/omnidan/node-emoji) | simple emoji support for node.js projects
+shields.io | [http://shields.io/](http://shields.io/) | status icons for lots of services
+codecov | [https://codecov.io/](https://codecov.io/) | Code coverage done right
+inferno | [http://infernojs.org/](http://infernojs.org/) | An extremely fast React-like JavaScript library for building modern user interfaces
+preact | [https://preactjs.com/](https://preactjs.com/) | React-like Javascript library with the same ES6 API
+winston | [https://github.com/winstonjs/winston](https://github.com/winstonjs/winston) | a multi-transport async logging library for node.js
+xo | [https://github.com/sindresorhus/xo](https://github.com/sindresorhus/xo) | JavaScript happiness style linter
+jsPDF | [https://github.com/MrRio/jsPDF](https://github.com/MrRio/jsPDF) | Client-side JavaScript PDF generation for everyone
 
 ## About Material
 
@@ -172,7 +179,18 @@ Material-ui | [http://www.material-ui.com/#/](http://www.material-ui.com/#/) | A
 Angular Material | [https://material.angularjs.org/latest/](https://material.angularjs.org/latest/) | UI Component framework for angular
 Bootstrap Material | [http://fezvrasta.github.io/bootstrap-material-design/](http://fezvrasta.github.io/bootstrap-material-design/) | Material Design for Bootstrap3
 
-## Atom Plugin
+## About Visual Studio Code
+
+NAME | LINK | SUMMARY
+-----|------|-----
+Vim | [https://marketplace.visualstudio.com/items?itemName=vscodevim.vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) | Vim plugin
+Material Icon Theme | [https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) | Material Icon plugi
+Settings Sync | [https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) | plugin for sync setting
+Partial Diff | [https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff) | get diff from two parts of text
+linter-xo | [https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) | extended eslint config
+vscode tips | [https://github.com/Microsoft/vscode-tips-and-tricks](https://github.com/Microsoft/vscode-tips-and-tricks) | Collection of helpful tips and tricks for VS Code.
+
+## About Atom
 
 NAME | LINK | SUMMARY
 -----|------|-----
@@ -208,8 +226,9 @@ CSS 词汇表 | [http://yisibl.github.io/css-vocabulary/](http://yisibl.github.i
 Git 在线入门教程 | [http://pcottle.github.io/learnGitBranching/?locale=zh_CN](http://pcottle.github.io/learnGitBranching/?locale=zh_CN) | 适合 Git 入门者的在线学习教程，可直接在线操作
 ProGit 中文版 | [http://git.oschina.net/progit/](http://git.oschina.net/progit/) | 很棒的一本讲 Git 的书，这是网页版，当然也有很多地方能下载到 pdf 版
 CSS 布局水平垂直居中总结 | [http://f2e.souche.com/blog/jie-du-cssbu-ju-zhi-shui-ping-chui-zhi-ju-zhong/](http://f2e.souche.com/blog/jie-du-cssbu-ju-zhi-shui-ping-chui-zhi-ju-zhong/) | 总结的挺全面
-understanding ES6 | [https://github.com/nzakas/understandinges6](https://github.com/nzakas/understandinges6) | NZ 大神的书
-ECMAScript 6 入门 | [http://es6.ruanyifeng.com/](http://es6.ruanyifeng.com/) | 阮一峰老师的教程
+understanding ES6 | [https://github.com/nzakas/understandinges6](https://github.com/nzakas/understandinges6) | ES6 book by nzakas
+ECMAScript 6 Tutorial | [http://es6.ruanyifeng.com/](http://es6.ruanyifeng.com/) | Chinese ES 6 tutorial by Ruanyifeng
+Bash Tutorial | [https://github.com/Idnan/bash-guide](https://github.com/Idnan/bash-guide) | Bash Basic Guide
 
 ## Interesting
 
