@@ -168,6 +168,16 @@ winston | [https://github.com/winstonjs/winston](https://github.com/winstonjs/wi
 xo | [https://github.com/sindresorhus/xo](https://github.com/sindresorhus/xo) | JavaScript happiness style linter
 jsPDF | [https://github.com/MrRio/jsPDF](https://github.com/MrRio/jsPDF) | Client-side JavaScript PDF generation for everyone
 
+## About Animation
+
+NAME | LINK | SUMMARY
+-----|------|-----
+animate.css | [https://github.com/daneden/animate.css](https://github.com/daneden/animate.css) | A cross-browser library of CSS animations. As easy to use as an easy thing
+bounce.js | [https://github.com/tictail/bounce.js](https://github.com/tictail/bounce.js) | Create beautiful CSS3 powered animations in no time
+magic | [https://github.com/miniMAC/magic](https://github.com/miniMAC/magic) | CSS3 Animations with special effects
+velocity | [https://github.com/julianshapiro/velocity](https://github.com/julianshapiro/velocity) | Accelerated JavaScript animation
+anime | [https://github.com/juliangarnier/anime](https://github.com/juliangarnier/anime) | JavaScript Animation Engine
+
 ## About Material
 
 NAME | LINK | SUMMARY

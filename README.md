@@ -170,6 +170,16 @@ winston | [https://github.com/winstonjs/winston](https://github.com/winstonjs/wi
 xo | [https://github.com/sindresorhus/xo](https://github.com/sindresorhus/xo) | 对于 eslint 的扩展配置
 jsPDF | [https://github.com/MrRio/jsPDF](https://github.com/MrRio/jsPDF) | js pdf 生成工具
 
+## 关于动画
+
+名称 | 地址 | 介绍
+-----|------|-----
+animate.css | [https://github.com/daneden/animate.css](https://github.com/daneden/animate.css) | css 动画库
+bounce.js | [https://github.com/tictail/bounce.js](https://github.com/tictail/bounce.js) | 基于 css3 的 js 动画库
+magic | [https://github.com/miniMAC/magic](https://github.com/miniMAC/magic) | CSS3 动画库
+velocity | [https://github.com/julianshapiro/velocity](https://github.com/julianshapiro/velocity) | js 动画库
+anime | [https://github.com/juliangarnier/anime](https://github.com/juliangarnier/anime) | js 动画引擎
+
 ## 关于 Material
 
 名称 | 地址 | 介绍
