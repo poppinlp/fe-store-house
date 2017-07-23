@@ -3,6 +3,7 @@
 > [CHINESE](https://github.com/poppinlp/fe-store-house/blob/master/README.md) | [ENGLISH](https://github.com/poppinlp/fe-store-house/blob/master/README_ENG.md)
 
 Front-end resources collected in usually work. Keeping update. You are welcome to STAR and PULL-REQUEST.
+You could find more interesting repo by [follow me](https://github.com/poppinlp) and watch [my stars list](https://github.com/poppinlp?tab=stars).
 
 ## Weekly
 
@@ -167,6 +168,20 @@ preact | [https://preactjs.com/](https://preactjs.com/) | React-like Javascript 
 winston | [https://github.com/winstonjs/winston](https://github.com/winstonjs/winston) | a multi-transport async logging library for node.js
 xo | [https://github.com/sindresorhus/xo](https://github.com/sindresorhus/xo) | JavaScript happiness style linter
 jsPDF | [https://github.com/MrRio/jsPDF](https://github.com/MrRio/jsPDF) | Client-side JavaScript PDF generation for everyone
+gpu.js | [https://github.com/gpujs/gpu.js](https://github.com/gpujs/gpu.js) | GPU Accelerated Javascript
+tabris-js | [https://github.com/eclipsesource/tabris-js](https://github.com/eclipsesource/tabris-js) | native apps in JS
+iron-node | [https://github.com/s-a/iron-node](https://github.com/s-a/iron-node) | debug node.js with chrome dev tool
+release | [https://github.com/zeit/release](https://github.com/zeit/release) | Generate changelogs with a single command
+franc | [https://github.com/wooorm/franc](https://github.com/wooorm/franc) | Natural language detection
+markvis | [https://github.com/geekplux/markvis](https://github.com/geekplux/markvis) | make visualization in markdown
+icaro | [https://github.com/GianlucaGuarini/icaro](https://github.com/GianlucaGuarini/icaro) | Smart and efficient javascript object observer
+gitignore | [https://github.com/github/gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates
+
+## Best Practice
+
+project-guidelines | [https://github.com/wearehive/project-guidelines](https://github.com/wearehive/project-guidelines) | a set of best practices for JS project
+API-Security-Checklist | [https://github.com/shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) | Checklist of the most important security countermeasures
+awesome-guidelines | [https://github.com/Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) | A curated list of high quality coding style conventions and standards
 
 ## About Animation
 
@@ -177,6 +192,7 @@ bounce.js | [https://github.com/tictail/bounce.js](https://github.com/tictail/bo
 magic | [https://github.com/miniMAC/magic](https://github.com/miniMAC/magic) | CSS3 Animations with special effects
 velocity | [https://github.com/julianshapiro/velocity](https://github.com/julianshapiro/velocity) | Accelerated JavaScript animation
 anime | [https://github.com/juliangarnier/anime](https://github.com/juliangarnier/anime) | JavaScript Animation Engine
+web-animations-js | [https://github.com/web-animations/web-animations-js](https://github.com/web-animations/web-animations-js) | JavaScript implementation of the Web Animations API
 
 ## About Material
 

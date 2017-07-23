@@ -3,6 +3,7 @@
 > [中文](https://github.com/poppinlp/fe-store-house/blob/master/README.md) | [ENGLISH](https://github.com/poppinlp/fe-store-house/blob/master/README_ENG.md)
 
 平时开发和学习过程中自己收集的一些前端资源。自行取用，不断更新。欢迎 star 和 fork 补充。
+你也可以[关注我](https://github.com/poppinlp)从而在[我的点赞](https://github.com/poppinlp?tab=stars)中了解到更多有意思的项目。
 
 __前端之路，且行且珍惜。__
 
@@ -169,6 +170,20 @@ preact | [https://preactjs.com/](https://preactjs.com/) | 轻量级的类 react 
 winston | [https://github.com/winstonjs/winston](https://github.com/winstonjs/winston) | node 的多通道异步日志库
 xo | [https://github.com/sindresorhus/xo](https://github.com/sindresorhus/xo) | 对于 eslint 的扩展配置
 jsPDF | [https://github.com/MrRio/jsPDF](https://github.com/MrRio/jsPDF) | js pdf 生成工具
+gpu.js | [https://github.com/gpujs/gpu.js](https://github.com/gpujs/gpu.js) | GPU Accelerated Javascript
+tabris-js | [https://github.com/eclipsesource/tabris-js](https://github.com/eclipsesource/tabris-js) | native apps in JS
+iron-node | [https://github.com/s-a/iron-node](https://github.com/s-a/iron-node) | debug node.js with chrome dev tool
+release | [https://github.com/zeit/release](https://github.com/zeit/release) | Generate changelogs with a single command
+franc | [https://github.com/wooorm/franc](https://github.com/wooorm/franc) | Natural language detection
+markvis | [https://github.com/geekplux/markvis](https://github.com/geekplux/markvis) | make visualization in markdown
+icaro | [https://github.com/GianlucaGuarini/icaro](https://github.com/GianlucaGuarini/icaro) | Smart and efficient javascript object observer
+gitignore | [https://github.com/github/gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates
+
+## 最佳实践
+
+project-guidelines | [https://github.com/wearehive/project-guidelines](https://github.com/wearehive/project-guidelines) | a set of best practices for JS project
+API-Security-Checklist | [https://github.com/shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) | Checklist of the most important security countermeasures
+awesome-guidelines | [https://github.com/Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) | A curated list of high quality coding style conventions and standards
 
 ## 关于动画
 
@@ -179,6 +194,7 @@ bounce.js | [https://github.com/tictail/bounce.js](https://github.com/tictail/bo
 magic | [https://github.com/miniMAC/magic](https://github.com/miniMAC/magic) | CSS3 动画库
 velocity | [https://github.com/julianshapiro/velocity](https://github.com/julianshapiro/velocity) | js 动画库
 anime | [https://github.com/juliangarnier/anime](https://github.com/juliangarnier/anime) | js 动画引擎
+web-animations-js | [https://github.com/web-animations/web-animations-js](https://github.com/web-animations/web-animations-js) | JavaScript implementation of the Web Animations API
 
 ## 关于 Material
 
