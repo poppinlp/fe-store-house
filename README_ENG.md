@@ -190,6 +190,8 @@ gpu.js | [https://github.com/gpujs/gpu.js](https://github.com/gpujs/gpu.js) | GP
 
 ## Best Practice
 
+NAME | LINK | SUMMARY
+-----|------|-----
 project-guidelines | [https://github.com/wearehive/project-guidelines](https://github.com/wearehive/project-guidelines) | a set of best practices for JS project
 API-Security-Checklist | [https://github.com/shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) | Checklist of the most important security countermeasures
 awesome-guidelines | [https://github.com/Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) | A curated list of high quality coding style conventions and standards
