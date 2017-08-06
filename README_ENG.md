@@ -152,8 +152,6 @@ webpack | [http://webpack.github.io/](http://webpack.github.io/) | A bundler for
 flow | [https://flowtype.org/](https://flowtype.org/) | A STATIC TYPE CHECKER FOR JAVASCRIPT
 yarn | [https://yarnpkg.com/](https://yarnpkg.com/) | Fast, reliable, and secure dependency management.
 chocolatey | [https://chocolatey.org/](https://chocolatey.org/) | The package manager for Windows
-swagger | [http://swagger.io/](http://swagger.io/) | The World’s Most Popular Framework for APIs.
-graphQL | [http://graphql.org/](http://graphql.org/) | A query language for your API
 superagent | [https://github.com/visionmedia/superagent](https://github.com/visionmedia/superagent) | Ajax with less suck - (and node.js HTTP client to match)
 request | [https://github.com/request/request](https://github.com/request/request) | Simplified HTTP request client.
 request-promise | [https://github.com/request/request-promise](https://github.com/request/request-promise) | The simplified HTTP request client 'request' with Promise support.
@@ -176,6 +174,19 @@ franc | [https://github.com/wooorm/franc](https://github.com/wooorm/franc) | Nat
 markvis | [https://github.com/geekplux/markvis](https://github.com/geekplux/markvis) | make visualization in markdown
 icaro | [https://github.com/GianlucaGuarini/icaro](https://github.com/GianlucaGuarini/icaro) | Smart and efficient javascript object observer
 gitignore | [https://github.com/github/gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates
+js-git | [https://github.com/creationix/js-git](https://github.com/creationix/js-git) | A JavaScript implementation of Git
+benchmark.js | [https://github.com/bestiejs/benchmark.js](https://github.com/bestiejs/benchmark.js) | A benchmarking library
+nightwatch | [https://github.com/nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) | Automated testing and continous integration framework based on node.js and selenium webdriver
+spikenail | [https://github.com/spikenail/spikenail](https://github.com/spikenail/spikenail) | Node.js GraphQL API framework
+mailit | [https://github.com/dthree/mailit](https://github.com/dthree/mailit) | A tiny drop-in REST API to send emails
+medium-editor | [https://github.com/yabwe/medium-editor](https://github.com/yabwe/medium-editor) | Medium.com WYSIWYG editor
+chart.js | [https://github.com/chartjs/Chart.js](https://github.com/chartjs/Chart.js) | Simple HTML5 Charts using the \<canvas\> tag
+spacetime | [https://github.com/smallwins/spacetime](https://github.com/smallwins/spacetime) | A lightweight way to handle timezones in js
+micro | [https://github.com/zeit/micro](https://github.com/zeit/micro) | Asynchronous HTTP microservices
+hyperapp | [https://github.com/hyperapp/hyperapp](https://github.com/hyperapp/hyperapp) | 1 KB JavaScript library for building frontend applications
+acorn | [https://github.com/ternjs/acorn](https://github.com/ternjs/acorn) | A small, fast, JavaScript-based JavaScript parser
+slate | [https://github.com/lord/slate](https://github.com/lord/slate) | Beautiful static documentation for your API
+gpu.js | [https://github.com/gpujs/gpu.js](https://github.com/gpujs/gpu.js) | GPU Accelerated JavaScript
 
 ## Best Practice
 
@@ -242,6 +253,9 @@ CommonJS | [http://wiki.commonjs.org/wiki/CommonJS](http://wiki.commonjs.org/wik
 AMDJS | [https://github.com/amdjs/amdjs-api](https://github.com/amdjs/amdjs-api) | amdjs
 CMDJS | [https://github.com/cmdjs/specification](https://github.com/cmdjs/specification) | cmdjs
 JSON-schema | [http://json-schema.org/](http://json-schema.org/) | JSON Schema
+Swagger | [http://swagger.io/specification/](http://swagger.io/specification/) | Popular APIs Spec
+RAML | [https://github.com/raml-org/raml-spec](https://github.com/raml-org/raml-spec) | RAML Specification
+graphQL | [http://graphql.org/](http://graphql.org/) | A query language for your API
 
 ## Tutorial
 
