@@ -189,6 +189,24 @@ hyperapp | [https://github.com/hyperapp/hyperapp](https://github.com/hyperapp/hy
 acorn | [https://github.com/ternjs/acorn](https://github.com/ternjs/acorn) | A small, fast, JavaScript-based JavaScript parser
 slate | [https://github.com/lord/slate](https://github.com/lord/slate) | Beautiful static documentation for your API
 gpu.js | [https://github.com/gpujs/gpu.js](https://github.com/gpujs/gpu.js) | GPU Accelerated JavaScript
+unfetch | [https://github.com/developit/unfetch](https://github.com/developit/unfetch) | Bare minimum fetch polyfill in 500 bytes
+graphql-js | [https://github.com/graphql/graphql-js](https://github.com/graphql/graphql-js) | A reference implementation of GraphQL for JavaScript
+popper.js | [https://github.com/FezVrasta/popper.js](https://github.com/FezVrasta/popper.js) | A kickass library to manage your poppers
+caporal.js | [https://github.com/mattallty/Caporal.js](https://github.com/mattallty/Caporal.js) | A full-featured framework for building command line applications (cli) with node.js
+songbird | [https://github.com/google/songbird](https://github.com/google/songbird) | Spatial Audio Encoding on the Web
+uncss | [https://github.com/giakki/uncss](https://github.com/giakki/uncss) | Remove unused styles from CSS
+puppeteer | [https://github.com/GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer) | Headless Chrome Node API
+nprogress | [https://github.com/rstacruz/nprogress](https://github.com/rstacruz/nprogress) | For slim progress bars
+fitty | [https://github.com/rikschennink/fitty](https://github.com/rikschennink/fitty) | Makes text fit perfectly
+fuzzysort | [https://github.com/farzher/fuzzysort](https://github.com/farzher/fuzzysort) | Fast SublimeText-like fuzzy search for JavaScript
+stylelint | [https://github.com/stylelint/stylelint](https://github.com/stylelint/stylelint) | A mighty, modern CSS linter
+lint-staged | [https://github.com/okonet/lint-staged](https://github.com/okonet/lint-staged) | Run linters on git staged files
+text-mask | [https://github.com/text-mask/text-mask](https://github.com/text-mask/text-mask) | Input mask for React, Angular, Ember, Vue, & plain JavaScript
+pre-commit | [https://github.com/observing/pre-commit](https://github.com/observing/pre-commit) | Automatically installs a git pre-commit script in your git repository which runs your `npm test` on pre-commit
+intro.js | [https://github.com/usablica/intro.js](https://github.com/usablica/intro.js) | A better way for new feature introduction and step-by-step users guide for your website and project
+lozad.js | [https://github.com/ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) | Highly performant, light ~0.5kb and configurable lazy loader in pure JS with no dependencies for images, iframes and more
+r2 | [https://github.com/mikeal/r2](https://github.com/mikeal/r2) | HTTP client. Spiritual successor to request.
+fastify | [https://github.com/fastify/fastify](https://github.com/fastify/fastify) | Fast and low overhead web framework, for Node.js
 
 ## 最佳实践
 
