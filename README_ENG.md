@@ -258,12 +258,14 @@ Bootstrap Material | [http://fezvrasta.github.io/bootstrap-material-design/](htt
 
 NAME | LINK | SUMMARY
 -----|------|-----
-Vim | [https://marketplace.visualstudio.com/items?itemName=vscodevim.vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) | Vim plugin
-Material Icon Theme | [https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) | Material Icon plugi
 Settings Sync | [https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) | plugin for sync setting
-Partial Diff | [https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff) | get diff from two parts of text
-linter-xo | [https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) | extended eslint config
-vscode tips | [https://github.com/Microsoft/vscode-tips-and-tricks](https://github.com/Microsoft/vscode-tips-and-tricks) | Collection of helpful tips and tricks for VS Code.
+Vim | [https://marketplace.visualstudio.com/items?itemName=vscodevim.vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) | Vim plugin
+Better Align | [https://marketplace.visualstudio.com/items?itemName=wwm.better-align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align) | Align code without selecting them first
+Bracket Pair Colorizer | [https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) | A customizable extension for colorizing matching brackets
+change-case | [https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case) | Quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word
+Document This | [https://marketplace.visualstudio.com/items?itemName=joelday.docthis](https://marketplace.visualstudio.com/items?itemName=joelday.docthis) | Automatically generates detailed JSDoc comments in TypeScript and JavaScript files
+IntelliSense for CSS class names | [https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) | Provides CSS class name completion for the HTML class attribute based on the CSS files in your workspace
+Material Icon Theme | [https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) | Material Icon plugi
 
 ## About Atom
 

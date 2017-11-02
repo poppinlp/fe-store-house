@@ -260,12 +260,14 @@ Bootstrap Material | [http://fezvrasta.github.io/bootstrap-material-design/](htt
 
 名称 | 地址 | 介绍
 -----|------|-----
-Vim | [https://marketplace.visualstudio.com/items?itemName=vscodevim.vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) | Vim 插件
-Material Icon Theme | [https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) | Material Icon 插件
 Settings Sync | [https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) | 同步配置的插件
-Partial Diff | [https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff) | 对比两部分文本得到差异
-linter-xo | [https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) | 对于 eslint 的扩展配置
-vscode tips | [https://github.com/Microsoft/vscode-tips-and-tricks](https://github.com/Microsoft/vscode-tips-and-tricks) | vscode 小技巧
+Vim | [https://marketplace.visualstudio.com/items?itemName=vscodevim.vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) | Vim 插件
+Better Align | [https://marketplace.visualstudio.com/items?itemName=wwm.better-align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align) | 代码对齐插件
+Bracket Pair Colorizer | [https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) | 高亮区分配对的括号
+change-case | [https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case) | 在不同格式命名见快速切换
+Document This | [https://marketplace.visualstudio.com/items?itemName=joelday.docthis](https://marketplace.visualstudio.com/items?itemName=joelday.docthis) | 为 JS 和 TS 文件自动生成 JSDoc 风格的注释
+IntelliSense for CSS class names | [https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) | 通过项目中的 CSS 文件自动补全 HTML 的 class 属性
+Material Icon Theme | [https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) | Material Icon 插件
 
 ## 关于 Atom
 
