@@ -207,6 +207,23 @@ intro.js | [https://github.com/usablica/intro.js](https://github.com/usablica/in
 lozad.js | [https://github.com/ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) | Highly performant, light ~0.5kb and configurable lazy loader in pure JS with no dependencies for images, iframes and more
 r2 | [https://github.com/mikeal/r2](https://github.com/mikeal/r2) | HTTP client. Spiritual successor to request.
 fastify | [https://github.com/fastify/fastify](https://github.com/fastify/fastify) | Fast and low overhead web framework, for Node.js
+graphql.js | [https://github.com/f/graphql.js](https://github.com/f/graphql.js) | A Simple and Isomorphic GraphQL Client for JavaScript
+websocket-as-promised | [https://github.com/vitalets/websocket-as-promised](https://github.com/vitalets/websocket-as-promised) | A Promise-based API for WebSockets
+strapi | [https://github.com/strapi/strapi](https://github.com/strapi/strapi) | Node.js Content Management Framework (headless-CMS) to build powerful API with no effort
+fast-json-stringify | [https://github.com/fastify/fast-json-stringify](https://github.com/fastify/fast-json-stringify) | 2x faster than JSON.stringify()
+accessibilityjs | [https://github.com/github/accessibilityjs](https://github.com/github/accessibilityjs) | Client side accessibility error scanner
+napajs | [https://github.com/Microsoft/napajs](https://github.com/Microsoft/napajs) | Napa.js: a multi-threaded JavaScript runtime
+apidoc | [https://github.com/apidoc/apidoc](https://github.com/apidoc/apidoc) | RESTful web API Documentation Generator
+kue | [https://github.com/Automattic/kue](https://github.com/Automattic/kue) | Kue is a priority job queue backed by redis, built for node.js
+node-microtime | [https://github.com/wadey/node-microtime](https://github.com/wadey/node-microtime) | Get the current time in microseconds
+luma.gl | [https://github.com/uber/luma.gl](https://github.com/uber/luma.gl) | A JavaScript WebGL Framework for Data Visualization
+date-fns | [https://github.com/date-fns/date-fns](https://github.com/date-fns/date-fns) | Modern JavaScript date utility library
+webdriverio | [https://github.com/webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) | A Node.js bindings implementation for the W3C WebDriver protocol
+spectron | [https://github.com/electron/spectron](https://github.com/electron/spectron) | Test Electron apps using ChromeDriver
+draggable | [https://github.com/Shopify/draggable](https://github.com/Shopify/draggable) | The JavaScript Drag & Drop library your grandparents warned you about
+minimist | [https://github.com/substack/minimist](https://github.com/substack/minimist) | parse argument options
+ajv | [https://github.com/epoberezkin/ajv](https://github.com/epoberezkin/ajv) | The fastest JSON-Schema Validator. Supports draft-04/06
+src2png | [https://github.com/mplewis/src2png](https://github.com/mplewis/src2png) | Turn your source code into beautiful syntax-highlighted images
 
 ## 最佳实践
 
@@ -215,6 +232,7 @@ fastify | [https://github.com/fastify/fastify](https://github.com/fastify/fastif
 project-guidelines | [https://github.com/wearehive/project-guidelines](https://github.com/wearehive/project-guidelines) | a set of best practices for JS project
 API-Security-Checklist | [https://github.com/shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) | Checklist of the most important security countermeasures
 awesome-guidelines | [https://github.com/Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) | A curated list of high quality coding style conventions and standards
+front-end-checklist | [https://github.com/thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | The perfect Front-End Checklist for modern websites and meticulous developers
 
 ## 关于动画
 
