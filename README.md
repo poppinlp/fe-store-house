@@ -23,6 +23,7 @@
 | Reddit JS                    | [https://www.reddit.com/r/javascript](https://www.reddit.com/r/javascript) | reddit 的 javascript 分类 |
 | Front-End Front              | [https://frontendfront.com/](https://frontendfront.com/)                   | Front-End Front           |
 | FE Weekly                    | [http://www.feweekly.com/](http://www.feweekly.com/)                       | 带中文导读的前端周刊      |
+| 前端周刊                  | [https://github.com/sorrycc/weekly](https://github.com/sorrycc/weekly)                             | 云谦大佬的前端周刊，每周发布    |
 
 ## 社区
 
@@ -34,6 +35,7 @@
 | SegmentFault  | [http://segmentfault.com](http://segmentfault.com)   | 国内问答社区                 |
 | DIV.IO        | [http://div.io](http://div.io)                       | 国内前端社区                 |
 | 掘金          | [https://juejin.im/](https://juejin.im/)             | 国内开发者社区               |
+| 前端早早聊          | [https://www.zaozao.run/](https://www.zaozao.run/)             | 前端早早聊社区               |
 
 ## 博客
 
@@ -64,7 +66,8 @@
 | soho UX              | [http://ux.sohu.com](http://ux.sohu.com/)                                  | sohu UX                                                                 |
 | w3ctech              | [http://www.w3ctech.com](http://www.w3ctech.com/)                          | w3ctech                                                                 |
 | 阿里妈妈 MUX         | [http://mux.alimama.com/](http://mux.alimama.com/)                         | 阿里妈妈的用户体验部门                                                  |
-| sitepoint            | [https://www.sitepoint.com/](https://www.sitepoint.com/)                   | sitepoint                                                               |
+| sitepoint            | [https://www.sitepoint.com/](https://www.sitepoint.com/)                   | sitepoint    
+| Alloy Team            | [http://www.alloyteam.com/](http://www.alloyteam.com/)                   | Alloy Team 腾讯Web前端团队                                                               |                                                            |
 
 ## 工具
 

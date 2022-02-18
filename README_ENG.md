@@ -22,6 +22,7 @@ You could find more interesting repo by [follow me](https://github.com/poppinlp)
 | Reddit JS                    | [https://www.reddit.com/r/javascript](https://www.reddit.com/r/javascript) | javascript of reddit         |
 | Front-End Front              | [https://frontendfront.com/](https://frontendfront.com/)                   | Front-End Front              |
 | FE Weekly                    | [http://www.feweekly.com/](http://www.feweekly.com/)                       | fe weekly with Chinese intro |
+| Front-End Weekly                  | [https://github.com/sorrycc/weekly](https://github.com/sorrycc/weekly)                             | about front-end weekly
 
 ## Community
 
@@ -33,6 +34,7 @@ You could find more interesting repo by [follow me](https://github.com/poppinlp)
 | SegmentFault  | [http://segmentfault.com](http://segmentfault.com)   | QA community in China        |
 | DIV.IO        | [http://div.io](http://div.io)                       | front-end community in China |
 | juejin        | [https://juejin.im/](https://juejin.im/)             | dev forum in China           |
+| zaozaorun          | [https://www.zaozao.run/](https://www.zaozao.run/)             | front-end community in China               |
 
 ## Blog
 
@@ -63,7 +65,8 @@ You could find more interesting repo by [follow me](https://github.com/poppinlp)
 | soho UX              | [http://ux.sohu.com](http://ux.sohu.com/)                                  | sohu UX                                                                 |
 | w3ctech              | [http://www.w3ctech.com](http://www.w3ctech.com/)                          | w3ctech                                                                 |
 | 阿里妈妈 MUX         | [http://mux.alimama.com/](http://mux.alimama.com/)                         | 阿里妈妈的用户体验部门                                                  |
-| sitepoint            | [https://www.sitepoint.com/](https://www.sitepoint.com/)                   | sitepoint                                                               |
+| sitepoint            | [https://www.sitepoint.com/](https://www.sitepoint.com/)                   | sitepoint     
+| Alloy Team            | [http://www.alloyteam.com/](http://www.alloyteam.com/)                   | Alloy Team front-end team                                                                |                                                          |
 
 ## Tool
 
